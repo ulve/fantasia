@@ -5,7 +5,7 @@ import * as fs from 'fs';
 export const getCategories = async (url: string) => {
     try {
         console.log("starting browser")
-        const browser = await puppeteer.launch({ headless: "new" });
+        const browser = await puppeteer.launch({ headless: "new", protocolTimeout: 30 * 60 * 1000 });
         const page = await browser.newPage();
         console.log(`going to ${url}`)
         await page.goto(url);
@@ -45,7 +45,7 @@ export const getCategories = async (url: string) => {
 
 async function autoScroll(page: puppeteer.Page) {
     await page.evaluate(async () => {
-        for (let i = 0; i < 5; i++) {
+        for (let i = 0; i < 20; i++) {
 
             await new Promise((resolve) => {
                 var totalHeight = 0;
