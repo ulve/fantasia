@@ -4,8 +4,10 @@ import * as fs from 'fs';
 
 export const getCategories = async (url: string) => {
     try {
+        console.log("starting browser")
         const browser = await puppeteer.launch({ headless: "new" });
         const page = await browser.newPage();
+        console.log(`going to ${url}`)
         await page.goto(url);
         await page.setViewport({
             width: 1200,
@@ -14,7 +16,15 @@ export const getCategories = async (url: string) => {
 
         await autoScroll(page);
 
+        await page.screenshot(
+            {
+                path: 'screenshot.png',
+                fullPage: true
+            }
+        )
+        console.log("getting products")
         let products = await getProducts(page)
+        console.log("got products")
 
         for (let product of products) {
             console.log(product.url)
@@ -26,7 +36,7 @@ export const getCategories = async (url: string) => {
             await downloadImage(product.img);
         };
 
-        fs.writeFileSync('frontend/src/lib/products.json', JSON.stringify(products, null, 2));
+        return products;
         await browser.close();
     } catch (error) {
         console.error(error);
@@ -66,6 +76,7 @@ export interface Product {
 }
 
 async function getDetail(page: puppeteer.Page, product: Product) {
+    console.log(`getting details for ${product.url}`)
     try {
         await page.waitForSelector('.easyzoom', { timeout: 10000 })
     }
