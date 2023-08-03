@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "fantasia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "scrape": "npx vite-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-fetch": "^2.6.4",
+    "axios": "^1.4.0",
+    "cheerio": "1.0.0-rc.12",
+    "eslint": "^8.46.0",
+    "node-fetch": "^3.3.2",
+    "node-ts": "^6.0.1",
+    "prettier": "^3.0.1",
+    "puppeteer": "^21.0.1",
+    "typescript": "^5.1.6"
+  }
+}
