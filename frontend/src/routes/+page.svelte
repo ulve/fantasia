@@ -69,20 +69,38 @@
 	}
 
 	h4 {
+		text-align: center;
+		background-color: lightslategray;
 		font-family: 'Playfair Display', serif;
+		padding-top: 5px;
+		padding-bottom: 5px;
 	}
 
-	/* The card container */
 	.product {
 		box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.4);
 		transition: 0.3s;
 		border-radius: 5px; /* 5px rounded corners */
-		width: 30%;
+		width: 80%;
 		padding: 10px;
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.5;
 		background-color: white;
 		margin: 10px;
+	}
+
+	@media only screen and (min-width: 768px) {
+		/* The card container */
+		.product {
+			box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.4);
+			transition: 0.3s;
+			border-radius: 5px; /* 5px rounded corners */
+			width: 30%;
+			padding: 10px;
+			font-family: 'Open Sans', sans-serif;
+			line-height: 1.5;
+			background-color: white;
+			margin: 10px;
+		}
 	}
 	label {
 		font-family: 'Open Sans', sans-serif;
