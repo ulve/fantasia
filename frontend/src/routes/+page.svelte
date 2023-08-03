@@ -28,7 +28,12 @@
 <div class="flexi">
 	{#each filteredProducts as product}
 		<div class="product">
-			<img src={product.img.split('/').pop()} alt={product.title} style="width:100%" />
+			<img
+				src={product.img.split('/').pop()}
+				loading="lazy"
+				alt={product.title}
+				style="width:100%"
+			/>
 			<div class="container">
 				<h4><b>{product.title}</b></h4>
 				<p>
