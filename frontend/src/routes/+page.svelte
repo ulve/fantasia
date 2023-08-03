@@ -15,7 +15,7 @@
 	let search = '';
 </script>
 
-<h1>Welcome to Fantasia</h1>
+<h1>Welcome to SUPERFantasia</h1>
 <div class="controls">
 	<label>
 		<input type="checkbox" bind:checked={inStock} />
