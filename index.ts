@@ -22,7 +22,7 @@ const start = await getCategories('https://www.fantasianorth.com/en/541-start-co
 console.log(JSON.stringify(start, null, 2))
 
 console.log("concatinating")
-const tot = [...destruction, ...order, ...chaos, ...death, ...start];
+const tot = [...destruction, ...order, ...chaos, ...death, ...start].sort((a, b) => a.title.localeCompare(b.title));
 
 console.log("writing to file")
 fs.writeFileSync('frontend/src/lib/products.json', JSON.stringify(tot, null, 2));

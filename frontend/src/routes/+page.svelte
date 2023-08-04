@@ -83,6 +83,8 @@
 		border-radius: 5px; /* 5px rounded corners */
 		width: 80%;
 		padding: 0px;
+		margin: 10px;
+
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.5;
 		background-color: white;
@@ -95,7 +97,6 @@
 			transition: 0.3s;
 			border-radius: 5px; /* 5px rounded corners */
 			width: 30%;
-			padding: 0px;
 			font-family: 'Open Sans', sans-serif;
 			line-height: 1.5;
 			background-color: white;
