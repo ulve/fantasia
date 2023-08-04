@@ -81,6 +81,25 @@ async function getDetail(page: puppeteer.Page, product: Product) {
         let tags = [];
 
         let toTitleCase = (str) => {
+            if (word == 'of')
+                return 'of'
+            if (word == 'the')
+                return 'the'
+            if (word == 'and')
+                return 'and'
+            if (word == 'in')
+                return 'in'
+            if (word == 'for')
+                return 'for'
+            if (word == 'with')
+                return 'with'
+            if (word == 'at')
+                return 'at'
+            if (word == 'from')
+                return 'from'
+            if (word == 'into')
+                return 'into'
+
             return str.toLowerCase().split(' ').map(function (word) {
                 return (word.charAt(0).toUpperCase() + word.slice(1));
             }).join(' ');
@@ -113,12 +132,31 @@ async function getProducts(page: puppeteer.Page): Promise<Product[]> {
 
         let toTitleCase = (str) => {
             return str.toLowerCase().split(' ').map(function (word) {
+                if (word == 'of')
+                    return 'of'
+                if (word == 'the')
+                    return 'the'
+                if (word == 'and')
+                    return 'and'
+                if (word == 'in')
+                    return 'in'
+                if (word == 'for')
+                    return 'for'
+                if (word == 'with')
+                    return 'with'
+                if (word == 'at')
+                    return 'at'
+                if (word == 'from')
+                    return 'from'
+                if (word == 'into')
+                    return 'into'
+
                 return (word.charAt(0).toUpperCase() + word.slice(1));
             }).join(' ');
         }
 
         articles.forEach(element => {
-            let title = (toTitleCase(element.querySelector('.product-title a') as HTMLElement).innerText)
+            let title = toTitleCase((element.querySelector('.product-title a') as HTMLElement).innerText)
             let price: number = +(element.querySelector('.current-price-discount') as HTMLElement).innerText.replace(',', '').replace('kr', '');
             let availability = (element.querySelector('.label') as HTMLElement).textContent.replace('\\n', '').trim().replace(/[^\x00-\x7F]/g, "");
             let number: number = +(element.querySelector('.product-quantities>span') as HTMLElement).innerText.trim();
