@@ -38,7 +38,7 @@
 				<img class="grand-alliance" src="destruction.png" alt="Grand Alliance Destruction" />
 			{/if}
 			<img
-				src={product.img.split('/').pop()}
+				src={product.img === 'not found' ? 'no_image.png' : product.img.split('/').pop()}
 				loading="lazy"
 				class="product-img"
 				alt={product.title}
@@ -144,9 +144,11 @@
 		top: 0;
 		left: 0;
 		translate: -35px -35px;
-		width: 100px;
+		max-width: 100px;
+		max-height: 150px;
 		opacity: 0.5;
 	}
+
 	.product:hover .grand-alliance {
 		transition: opacity 0.3s;
 		opacity: 1;
