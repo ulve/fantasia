@@ -16,12 +16,6 @@ export const getCategories = async (url: string) => {
 
         await autoScroll(page);
 
-        await page.screenshot(
-            {
-                path: 'screenshot.png',
-                fullPage: true
-            }
-        )
         console.log("getting products")
         let products = await getProducts(page)
         console.log("got products")
@@ -36,8 +30,9 @@ export const getCategories = async (url: string) => {
             await downloadImage(product.img);
         };
 
-        return products;
         await browser.close();
+
+        return products;
     } catch (error) {
         console.error(error);
     }
@@ -45,7 +40,7 @@ export const getCategories = async (url: string) => {
 
 async function autoScroll(page: puppeteer.Page) {
     await page.evaluate(async () => {
-        for (let i = 0; i < 20; i++) {
+        for (let i = 0; i < 5; i++) {
 
             await new Promise((resolve) => {
                 var totalHeight = 0;
