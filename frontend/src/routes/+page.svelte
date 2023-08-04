@@ -57,7 +57,7 @@
 				</p>
 			</div>
 			<div class="logo">
-				<a href={product.link} target="_blank">
+				<a href={product.url} target="_blank">
 					<img src="logo.png" alt="Logo" width="100%" />
 				</a>
 			</div>
