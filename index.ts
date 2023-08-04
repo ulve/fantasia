@@ -4,14 +4,17 @@ import * as fs from 'fs';
 console.log("downloading order")
 const order = await getCategories('https://www.fantasianorth.com/en/561-grand-alliance-order');
 console.log(JSON.stringify(order, null, 2))
+
 console.log("downloading desctruction")
 const destruction = await getCategories('https://www.fantasianorth.com/en/564-grand-alliance-destruction');
 console.log(JSON.stringify(destruction, null, 2))
+
 console.log("downloading chaos")
 const chaos = await getCategories('https://www.fantasianorth.com/en/562-grand-alliance-chaos');
 console.log(JSON.stringify(chaos, null, 2))
+
 console.log("downloading death")
-const death = await getCategories('https://www.fantasianorth.com/en/562-grand-alliance-chaos');
+const death = await getCategories('https://www.fantasianorth.com/en/563-grand-alliance-death');
 console.log(JSON.stringify(death, null, 2))
 
 console.log("downloading start")
