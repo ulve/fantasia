@@ -31,6 +31,7 @@
 			<img
 				src={product.img.split('/').pop()}
 				loading="lazy"
+				class="product-img"
 				alt={product.title}
 				style="width:100%"
 			/>
@@ -47,7 +48,7 @@
 				</p>
 			</div>
 			<div class="logo">
-				<a href={product.url}><img src="logo.png" alt="Logo" width="100%" /></a>
+				<img src="logo.png" alt="Logo" width="100%" />
 			</div>
 		</div>
 	{/each}
@@ -55,6 +56,12 @@
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Playfair+Display:ital@1&display=swap');
+	.product-img {
+		margin-top: 10px;
+		width: 100%;
+		height: 400px;
+		object-fit: contain;
+	}
 	.flexi {
 		display: flex;
 		flex-wrap: wrap;
@@ -84,6 +91,7 @@
 		transition: 0.3s;
 		border-radius: 5px; /* 5px rounded corners */
 		width: 80%;
+		height: 700px;
 		padding: 0px;
 		margin: 10px;
 
@@ -109,6 +117,7 @@
 	@media only screen and (min-width: 1024px) {
 		/* The card container */
 		.product {
+			position: relative;
 			box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.4);
 			transition: 0.3s;
 			border-radius: 5px; /* 5px rounded corners */
@@ -127,23 +136,23 @@
 	}
 	/* On mouse-over, add a deeper shadow */
 	.product:hover {
-		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.8);
 	}
 
 	.product .logo {
 		transition: scale 0.3s;
 		position: relative;
-		float: right;
-		translate: 40px 35px;
+		translate: 50px 15px;
 		scale: 0.6;
+		float: right;
 	}
 
 	.product:hover .logo {
 		transition: scale 0.3s;
 		position: relative;
-		float: right;
-		translate: 40px 35px;
+		translate: 50px 15px;
 		scale: 0.8;
+		float: right;
 	}
 	/* Add some padding inside the card container */
 	.container {
