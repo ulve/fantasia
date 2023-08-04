@@ -110,8 +110,15 @@ async function getProducts(page: puppeteer.Page): Promise<Product[]> {
         let main = document.querySelectorAll('section [id="main"]')
         let articles = main[0].querySelectorAll('article')
         let retvalue = []
+
+        let toTitleCase = (str) => {
+            return str.toLowerCase().split(' ').map(function (word) {
+                return (word.charAt(0).toUpperCase() + word.slice(1));
+            }).join(' ');
+        }
+
         articles.forEach(element => {
-            let title = (element.querySelector('.product-title a') as HTMLElement).innerText
+            let title = (toTitleCase(element.querySelector('.product-title a') as HTMLElement).innerText)
             let price: number = +(element.querySelector('.current-price-discount') as HTMLElement).innerText.replace(',', '').replace('kr', '');
             let availability = (element.querySelector('.label') as HTMLElement).textContent.replace('\\n', '').trim().replace(/[^\x00-\x7F]/g, "");
             let number: number = +(element.querySelector('.product-quantities>span') as HTMLElement).innerText.trim();
