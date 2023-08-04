@@ -44,8 +44,10 @@
 						({product.number} units)
 					{/if}<br />
 					<b>Tags: </b>{product.tags.join(', ')}<br />
-					<a href={product.url}>Fantasia</a>
 				</p>
+			</div>
+			<div class="logo">
+				<a href={product.url}><img src="logo.png" alt="Logo" width="100%" /></a>
 			</div>
 		</div>
 	{/each}
@@ -90,7 +92,21 @@
 		background-color: white;
 	}
 
-	@media only screen and (min-width: 768px) {
+	@media only screen and (min-width: 600px) {
+		/* The card container */
+		.product {
+			box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.4);
+			transition: 0.3s;
+			border-radius: 5px; /* 5px rounded corners */
+			width: 45%;
+			font-family: 'Open Sans', sans-serif;
+			line-height: 1.5;
+			background-color: white;
+			margin: 10px;
+		}
+	}
+
+	@media only screen and (min-width: 1024px) {
 		/* The card container */
 		.product {
 			box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.4);
@@ -100,7 +116,7 @@
 			font-family: 'Open Sans', sans-serif;
 			line-height: 1.5;
 			background-color: white;
-			margin: 10px;
+			margin: 20px;
 		}
 	}
 	label {
@@ -114,6 +130,21 @@
 		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 	}
 
+	.product .logo {
+		transition: scale 0.3s;
+		position: relative;
+		float: right;
+		translate: 40px 35px;
+		scale: 0.6;
+	}
+
+	.product:hover .logo {
+		transition: scale 0.3s;
+		position: relative;
+		float: right;
+		translate: 40px 35px;
+		scale: 0.8;
+	}
 	/* Add some padding inside the card container */
 	.container {
 		padding: 2px 16px;
