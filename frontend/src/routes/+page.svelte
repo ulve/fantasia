@@ -34,8 +34,8 @@
 				alt={product.title}
 				style="width:100%"
 			/>
+			<h4><b>{product.title}</b></h4>
 			<div class="container">
-				<h4><b>{product.title}</b></h4>
 				<p>
 					<b>Price: </b>{product.price}:-<br />
 					<b>Availabilty: </b>
@@ -70,7 +70,8 @@
 
 	h4 {
 		text-align: center;
-		background-color: lightslategray;
+		background-color: #033300;
+		color: white;
 		font-family: 'Playfair Display', serif;
 		padding-top: 5px;
 		padding-bottom: 5px;
@@ -81,11 +82,10 @@
 		transition: 0.3s;
 		border-radius: 5px; /* 5px rounded corners */
 		width: 80%;
-		padding: 10px;
+		padding: 0px;
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.5;
 		background-color: white;
-		margin: 10px;
 	}
 
 	@media only screen and (min-width: 768px) {
@@ -95,7 +95,7 @@
 			transition: 0.3s;
 			border-radius: 5px; /* 5px rounded corners */
 			width: 30%;
-			padding: 10px;
+			padding: 0px;
 			font-family: 'Open Sans', sans-serif;
 			line-height: 1.5;
 			background-color: white;
