@@ -49,7 +49,7 @@ export const getCategories = async (url: string) => {
 
 async function autoScroll(page: puppeteer.Page) {
     await page.evaluate(async () => {
-        for (let i = 0; i < 10; i++) {
+        for (let i = 0; i < 20; i++) {
 
             await new Promise((resolve) => {
                 var totalHeight = 0;

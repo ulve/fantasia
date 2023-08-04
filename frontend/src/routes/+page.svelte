@@ -164,8 +164,9 @@
 	.product .logo {
 		transition: scale 0.3s;
 		position: relative;
-		translate: 50px 10px;
 		scale: 0.6;
+		translate: 50px -45px;
+
 		float: right;
 	}
 
