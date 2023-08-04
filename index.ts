@@ -24,5 +24,12 @@ console.log(JSON.stringify(start, null, 2))
 console.log("concatinating")
 const tot = [...destruction, ...order, ...chaos, ...death, ...start].sort((a, b) => a.title.localeCompare(b.title));
 
+const map = new Map();
+for (const item of tot) {
+    map.set(item.title, item);
+}
+const tot_dedupe = Array.from(map.values());
+
+
 console.log("writing to file")
-fs.writeFileSync('frontend/src/lib/products.json', JSON.stringify(tot, null, 2));
+fs.writeFileSync('frontend/src/lib/products.json', JSON.stringify(tot_dedupe, null, 2));

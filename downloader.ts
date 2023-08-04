@@ -2,6 +2,16 @@ import * as puppeteer from 'puppeteer';
 import nodeFetch from "node-fetch";
 import * as fs from 'fs';
 
+export interface Product {
+    tags: string[] | null;
+    img: string | null;
+    title: string,
+    price: number,
+    availability: string,
+    number: number | null,
+    url: string
+}
+
 export const getCategories = async (url: string) => {
     try {
         console.log("starting browser")
@@ -21,12 +31,11 @@ export const getCategories = async (url: string) => {
         console.log("got products")
 
         for (let product of products) {
-            console.log(product.url)
+            console.log(`Going to ${product.url}`)
             await page.goto(product.url);
             let details = await getDetail(page, product);
             product.tags = details.tags;
             product.img = details.img;
-            console.log(product.img)
             await downloadImage(product.img);
         };
 
@@ -40,7 +49,7 @@ export const getCategories = async (url: string) => {
 
 async function autoScroll(page: puppeteer.Page) {
     await page.evaluate(async () => {
-        for (let i = 0; i < 5; i++) {
+        for (let i = 0; i < 10; i++) {
 
             await new Promise((resolve) => {
                 var totalHeight = 0;
@@ -60,18 +69,7 @@ async function autoScroll(page: puppeteer.Page) {
     });
 }
 
-export interface Product {
-    tags: string[] | null;
-    img: string | null;
-    title: string,
-    price: number,
-    availability: string,
-    number: number | null,
-    url: string
-}
-
 async function getDetail(page: puppeteer.Page, product: Product) {
-    console.log(`getting details for ${product.url}`)
     try {
         await page.waitForSelector('.easyzoom', { timeout: 10000 })
     }
@@ -81,8 +79,15 @@ async function getDetail(page: puppeteer.Page, product: Product) {
     return await page.evaluate(async () => {
         let tagElements = document.querySelectorAll('.breadcrumb-item');
         let tags = [];
+
+        let toTitleCase = (str) => {
+            return str.toLowerCase().split(' ').map(function (word) {
+                return (word.charAt(0).toUpperCase() + word.slice(1));
+            }).join(' ');
+        }
+
         tagElements.forEach(element => {
-            tags.push((element as HTMLElement).innerText);
+            tags.push(toTitleCase((element as HTMLElement).innerText));
         });
         tags = tags.filter(tag => tag != 'Home');
 
@@ -98,8 +103,6 @@ async function getDetail(page: puppeteer.Page, product: Product) {
             img: img
         };
     });
-
-
 }
 
 async function getProducts(page: puppeteer.Page): Promise<Product[]> {
@@ -130,12 +133,13 @@ async function downloadImage(img: string) {
         return;
 
     const filename = "frontend/static/" + img.split('/').pop();
-    console.log(`Downloading ${filename}`);
     // if file does not exist, download it
     if (fs.existsSync(filename)) {
         console.log(`${filename} already exists`);
         return;
     }
+
+    console.log(`Downloading ${filename}`);
     const res = await nodeFetch(img);
 
     const fileStream = fs.createWriteStream(filename);
@@ -147,4 +151,3 @@ async function downloadImage(img: string) {
         console.log(`Downloaded ${filename}`);
     });
 }
-
