@@ -81,26 +81,25 @@ async function getDetail(page: puppeteer.Page, product: Product) {
         let tags = [];
 
         let toTitleCase = (str) => {
-            if (word == 'of')
-                return 'of'
-            if (word == 'the')
-                return 'the'
-            if (word == 'and')
-                return 'and'
-            if (word == 'in')
-                return 'in'
-            if (word == 'for')
-                return 'for'
-            if (word == 'with')
-                return 'with'
-            if (word == 'at')
-                return 'at'
-            if (word == 'from')
-                return 'from'
-            if (word == 'into')
-                return 'into'
-
             return str.toLowerCase().split(' ').map(function (word) {
+                if (word == 'of')
+                    return 'of'
+                if (word == 'the')
+                    return 'the'
+                if (word == 'and')
+                    return 'and'
+                if (word == 'in')
+                    return 'in'
+                if (word == 'for')
+                    return 'for'
+                if (word == 'with')
+                    return 'with'
+                if (word == 'at')
+                    return 'at'
+                if (word == 'from')
+                    return 'from'
+                if (word == 'into')
+                    return 'into'
                 return (word.charAt(0).toUpperCase() + word.slice(1));
             }).join(' ');
         }
