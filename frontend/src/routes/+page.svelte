@@ -11,6 +11,21 @@
 			return product.tags.join(', ').toLowerCase().indexOf(search.toLowerCase()) > -1;
 		}
 	});
+
+	function getLogo(tags: string[]) {
+		if (tags.includes('Grand Alliance Chaos')) {
+			return 'chaos.png';
+		} else if (tags.includes('Grand Alliance Order')) {
+			return 'order.png';
+		} else if (tags.includes('Grand Alliance Death')) {
+			return 'death.png';
+		} else if (tags.includes('Grand Alliance Destruction')) {
+			return 'destruction.png';
+		} else {
+			return '';
+		}
+	}
+
 	let inStock = false;
 	let search = '';
 </script>
@@ -28,15 +43,7 @@
 <div class="flexi">
 	{#each filteredProducts as product}
 		<div class="product">
-			{#if product.tags.includes('Grand Alliance Chaos')}
-				<img class="grand-alliance" src="chaos.png" alt="Grand Alliance Chaos" />
-			{:else if product.tags.includes('Grand Alliance Order')}
-				<img class="grand-alliance" src="order.png" alt="Grand Alliance Order" />
-			{:else if product.tags.includes('Grand Alliance Death')}
-				<img class="grand-alliance" src="death.png" alt="Grand Alliance Death" />
-			{:else if product.tags.includes('Grand Alliance Destruction')}
-				<img class="grand-alliance" src="destruction.png" alt="Grand Alliance Destruction" />
-			{/if}
+			<img class="grand-alliance" src={getLogo(product.tags)} alt={getLogo(product.tags)} />
 			<img
 				src={product.img === 'not found' ? 'no_image.png' : product.img.split('/').pop()}
 				loading="lazy"
