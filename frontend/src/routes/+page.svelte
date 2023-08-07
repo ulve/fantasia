@@ -115,7 +115,7 @@
 		position: relative;
 
 		box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.4);
-		transition: 0.3s;
+		transition: all 0.3s ease-in-out;
 		border-radius: 5px; /* 5px rounded corners */
 		width: 80%;
 		height: 700px;
