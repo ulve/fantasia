@@ -1022,8 +1022,8 @@
   {
     "title": "Clanrats",
     "price": 323,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/5782-skaven-clanrats-5011921179374.html",
     "tags": [
       "Miniatures",
@@ -1248,8 +1248,8 @@
   {
     "title": "Daemonettes of Slaanesh",
     "price": 275,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 3,
     "url": "https://www.fantasianorth.com/en/troops/770-daemonettes-of-slaanesh-5011921085521.html",
     "tags": [
       "Miniatures",
@@ -1463,8 +1463,8 @@
   {
     "title": "Doomwheel",
     "price": 305,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/929-skaven-doomwheel-5011921016846.html",
     "tags": [
       "Miniatures",
@@ -2091,8 +2091,8 @@
   {
     "title": "Fyreslayers Magmadroth",
     "price": 797,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/5200-fyreslayers-magmadroth-5011921173532.html",
     "tags": [
       "Miniatures",
@@ -3095,8 +3095,8 @@
   {
     "title": "Kharadron Overlords: Arkanaut Ironclad",
     "price": 968,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/kharadron-overlords/13820-kharadron-overlords-arkanaut-ironclad-5011921083633.html",
     "tags": [
       "Miniatures",
@@ -3155,8 +3155,8 @@
   {
     "title": "Kharadron Overlords: Grundstok Thunderers",
     "price": 379,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/kharadron-overlords/13811-kharadron-overlords-grundstok-thunderers-5011921082995.html",
     "tags": [
       "Miniatures",
@@ -3365,8 +3365,8 @@
   {
     "title": "Lauka Vai Mother of Nightmares",
     "price": 485,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/20817-lauka-vai-mother-of-nightmares-5011921138999.html",
     "tags": [
       "Miniatures",
@@ -4101,8 +4101,8 @@
   {
     "title": "Nighthaunt Krulghast Cruciator",
     "price": 228,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/grand-alliance-death/20724-nighthaunt-krulghast-cruciator-5011921139040.html",
     "tags": [
       "Miniatures",
@@ -4386,8 +4386,8 @@
   {
     "title": "Ossiarch Bonereapers Gothizzar Harvester",
     "price": 399,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/18287-ossiarch-bonereapers-gothizzar-harvester-5011921126347.html",
     "tags": [
       "Miniatures",
@@ -4733,7 +4733,7 @@
     "title": "Revenant Wargrove",
     "price": 1481,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/33882-revenant-wargrove.html",
     "tags": [
       "Miniatures",
@@ -5245,8 +5245,8 @@
   {
     "title": "Skulltaker",
     "price": 275,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/blades-of-khorne/16066-skulltaker-5011921113163.html",
     "tags": [
       "Miniatures",
@@ -5350,8 +5350,8 @@
   {
     "title": "Slaves To Darkness Exalted Hero of Chaos",
     "price": 256,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/36266-slaves-to-darkness-exalted-hero-of-chaos.html",
     "tags": [
       "Miniatures",
@@ -5853,8 +5853,8 @@
   {
     "title": "Stormcast Eternals Annihilators",
     "price": 399,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/21434-stormcast-eternals-annihilators-5011921155651.html",
     "tags": [
       "Miniatures",
@@ -6393,7 +6393,7 @@
     "title": "Sylvaneth: Lady of Vines",
     "price": 304,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/23891-sylvaneth-lady-of-vines-5011921177936.html",
     "tags": [
       "Miniatures",
@@ -7045,8 +7045,8 @@
   {
     "title": "Vanguard: Sylvaneth",
     "price": 968,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/start-collecting/33728-vanguard-sylvaneth-5011921163311.html",
     "tags": [
       "Miniatures",

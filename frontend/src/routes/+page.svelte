@@ -96,10 +96,18 @@
 	}
 
 	.controls {
+		top: 0px;
+		background-color: rgb(207, 207, 201);
+		z-index: 1;
+		box-shadow: 0 12px 8px 0 rgba(0, 0, 0, 0.4);
+		position: sticky;
 		text-align: center;
+		width: 100%;
 		font-family: 'Open Sans', sans-serif;
 		font-size: large;
-		margin-bottom: 50px;
+		padding-top: 10px;
+		padding-bottom: 15px;
+		margin-bottom: 25px;
 	}
 
 	h4 {
