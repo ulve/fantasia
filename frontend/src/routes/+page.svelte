@@ -127,6 +127,10 @@
 		background-color: white;
 	}
 
+	.product:hover {
+		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.8);
+	}
+
 	@media only screen and (min-width: 600px) {
 		/* The card container */
 		.product {
@@ -141,9 +145,6 @@
 		}
 	}
 	/* On mouse-over, add a deeper shadow */
-	.product:hover {
-		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.8);
-	}
 
 	.grand-alliance {
 		position: absolute;
@@ -163,16 +164,16 @@
 
 	.product .logo {
 		transition: scale 0.3s;
-		position: relative;
+		display: block;
+		position: absolute;
 		scale: 0.6;
-		translate: 50px -45px;
-
-		float: right;
+		bottom: 0px;
+		right: 0px;
+		transform: translateY(75%) translateX(45%);
 	}
 
 	.product:hover .logo {
-		position: relative;
-		scale: 0.8;
+		scale: 0.7;
 	}
 
 	.container {
