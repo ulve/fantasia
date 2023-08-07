@@ -1880,7 +1880,7 @@
     "title": "Flamers of Tzeentch",
     "price": 237,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/elite/809-flamers-of-tzeentch-5011921178667.html",
     "tags": [
       "Miniatures",
@@ -3426,7 +3426,7 @@
     "title": "Lord of Change",
     "price": 1025,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/hq/13562-lord-of-change-5011921077304.html",
     "tags": [
       "Miniatures",
@@ -3697,7 +3697,7 @@
     "title": "Maggotkin: Phulgoth's Shudderhood",
     "price": 911,
     "availability": "In stock",
-    "number": 4,
+    "number": 3,
     "url": "https://www.fantasianorth.com/en/maggotkin-of-nurgle/37366-maggotkin-phulgoth-s-shudderhood-5011921200979.html",
     "tags": [
       "Miniatures",
@@ -5472,7 +5472,7 @@
     "title": "Slickblade Seekers",
     "price": 484,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/20432-slickblade-seekers-5011921128105.html",
     "tags": [
       "Miniatures",
@@ -5737,7 +5737,7 @@
     "title": "Start Collecting! Ironjawz",
     "price": 638,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/start-collecting/12948-start-collecting-ironjawz-5011921076611.html",
     "tags": [
       "Miniatures",
@@ -7209,8 +7209,8 @@
   {
     "title": "Weirdnob Shaman",
     "price": 257,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/12055-orruk-weirdnob-shaman-5011921165285.html",
     "tags": [
       "Miniatures",
