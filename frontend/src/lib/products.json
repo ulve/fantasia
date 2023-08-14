@@ -524,7 +524,7 @@
     "title": "Bloodcrushers of Khorne",
     "price": 793,
     "availability": "In stock",
-    "number": 3,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/blades-of-khorne/822-bloodcrushers-of-khorne-5011921064021.html",
     "tags": [
       "Miniatures",
@@ -3305,8 +3305,8 @@
   {
     "title": "Krondy's Son of Dracothian",
     "price": 912,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/21838-krondys-son-of-dracothian-5011921155613.html",
     "tags": [
       "Miniatures",
@@ -5723,7 +5723,7 @@
     "title": "Start Collecting! Greywater Fastness",
     "price": 638,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/start-collecting/18141-start-collecting-greywater-fastness-5011921126378.html",
     "tags": [
       "Miniatures",
@@ -6288,7 +6288,7 @@
     "title": "Sylvaneth Alarielle the Everqueen",
     "price": 1083,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/12865-sylvaneth-alarielle-the-everqueen-5011921179411.html",
     "tags": [
       "Miniatures",
@@ -6302,8 +6302,8 @@
   {
     "title": "Sylvaneth Druanti the Arch-revenant",
     "price": 284,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/sylvaneth/18727-sylvaneth-druanti-the-arch-revenant-5011921179459.html",
     "tags": [
       "Miniatures",
@@ -6704,8 +6704,8 @@
   {
     "title": "Vanari Auralan Sentinels",
     "price": 427,
-    "availability": "In stock",
-    "number": 2,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/lumineth-realm-lords/19540-vanari-auralan-sentinels-5011921179596.html",
     "tags": [
       "Miniatures",
