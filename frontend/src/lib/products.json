@@ -5245,8 +5245,8 @@
   {
     "title": "Skulltaker",
     "price": 275,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/blades-of-khorne/16066-skulltaker-5011921113163.html",
     "tags": [
       "Miniatures",
