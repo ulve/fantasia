@@ -41,16 +41,25 @@
 	🧐 Showing {filteredProducts.length} of {products.length} products
 </div>
 <div class="flexi">
-	{#each filteredProducts as product}
+	{#each filteredProducts as product, i}
 		<div class="product">
 			<img class="grand-alliance" src={getLogo(product.tags)} alt={getLogo(product.tags)} />
-			<img
-				src={product.img === 'not found' ? 'no_image.png' : product.img.split('/').pop()}
-				loading="lazy"
-				class="product-img"
-				alt={product.title}
-				style="width:100%"
-			/>
+			{#if i < 10}
+				<img
+					src={product.img === 'not found' ? 'no_image.png' : product.img.split('/').pop()}
+					class="product-img"
+					alt={product.title}
+					style="width:100%"
+				/>
+			{:else}
+				<img
+					src={product.img === 'not found' ? 'no_image.png' : product.img.split('/').pop()}
+					class="product-img"
+					loading="lazy"
+					alt={product.title}
+					style="width:100%"
+				/>
+			{/if}
 			<h4><b>{product.title}</b></h4>
 			<div class="container">
 				<p>

@@ -48,7 +48,7 @@
     "title": "Age of Sigmar: Awakened Wyldwood",
     "price": 428,
     "availability": "In stock",
-    "number": 9,
+    "number": 8,
     "url": "https://www.fantasianorth.com/en/warhammer-age-of-sigmar/17245-age-of-sigmar-awakened-wyldwood-5011921123704.html",
     "tags": [
       "Miniatures",
@@ -91,8 +91,8 @@
   {
     "title": "Akhelian Leviathan",
     "price": 968,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/15104-akhelian-leviadon-5011921097531.html",
     "tags": [
       "Miniatures",
@@ -331,8 +331,8 @@
   {
     "title": "Be'lakor the Dark Master",
     "price": 1025,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/hq/14038-belakor-the-dark-master-5011921138463.html",
     "tags": [
       "Miniatures",
@@ -524,7 +524,7 @@
     "title": "Bloodcrushers of Khorne",
     "price": 793,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/blades-of-khorne/822-bloodcrushers-of-khorne-5011921064021.html",
     "tags": [
       "Miniatures",
@@ -538,8 +538,8 @@
   {
     "title": "Bloodletters of Khorne",
     "price": 285,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/troops/5810-bloodletters-of-khorne-5011921092864.html",
     "tags": [
       "Miniatures",
@@ -721,8 +721,8 @@
   {
     "title": "By Ganeth Executioners/black Guards",
     "price": 428,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/1035-dark-elf-har-ganeth-executioners-black-guards-5011921048649.html",
     "tags": [
       "Miniatures",
@@ -1098,7 +1098,7 @@
     "title": "Copy of Chaos Spawn",
     "price": 379,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/fixed-attack/36255-chaos-spawn-5011921066841.html",
     "tags": [
       "Miniatures",
@@ -1279,8 +1279,8 @@
   {
     "title": "Daemons of Slaanesh Keeper of Secrets",
     "price": 1083,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/home/16419-daemons-of-slaanesh-keeper-of-secrets-5011921116270.html",
     "tags": [
       "Daemons of Slaanesh Keeper of Secrets"
@@ -1565,8 +1565,8 @@
   {
     "title": "Endless Spells: Daughters of Khaine",
     "price": 345,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/20435-endless-spells-daughters-of-khaine-5011921141678.html",
     "tags": [
       "Miniatures",
@@ -1941,7 +1941,7 @@
     "title": "Flesh-eater Courts: Jerrion's Delegation",
     "price": 911,
     "availability": "In stock",
-    "number": 4,
+    "number": 3,
     "url": "https://www.fantasianorth.com/en/flesh-eater-courts/37369-flesh-eater-courts-jerrion-s-delegation-5011921200986.html",
     "tags": [
       "Miniatures",
@@ -2121,8 +2121,8 @@
   {
     "title": "Fyreslayers Magmic Invocations",
     "price": 295,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/fyreslayers/16189-fyreslayers-magmic-invocations-5011921118274.html",
     "tags": [
       "Miniatures",
@@ -2478,7 +2478,7 @@
     "title": "Grave Guard",
     "price": 380,
     "availability": "In stock",
-    "number": 1,
+    "number": 3,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/1030-deathrattle-grave-guard-5011921090389.html",
     "tags": [
       "Miniatures",
@@ -2538,8 +2538,8 @@
   {
     "title": "Grot Fanatics",
     "price": 346,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/912-night-goblin-fanatics-5011921113118.html",
     "tags": [
       "Miniatures",
@@ -3005,8 +3005,8 @@
   {
     "title": "Kharadon Overlords: Arkanaut Company",
     "price": 398,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/kharadron-overlords/13803-kharadon-overlords-arkanaut-company-5011921082971.html",
     "tags": [
       "Miniatures",
@@ -3425,8 +3425,8 @@
   {
     "title": "Lord of Change",
     "price": 1025,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/hq/13562-lord-of-change-5011921077304.html",
     "tags": [
       "Miniatures",
@@ -3472,7 +3472,7 @@
     "title": "Lord of Plagues",
     "price": 138,
     "availability": "In stock",
-    "number": 2,
+    "number": 3,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/826-nurgle-rotbringers-lord-of-plagues-5011921170326.html",
     "tags": [
       "Miniatures",
@@ -3817,7 +3817,7 @@
     "title": "Moonclan Grots",
     "price": 323,
     "availability": "In stock",
-    "number": 3,
+    "number": 5,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/931-moonclan-grots-5011921109968.html",
     "tags": [
       "Miniatures",
@@ -4102,7 +4102,7 @@
     "title": "Nighthaunt Krulghast Cruciator",
     "price": 228,
     "availability": "In stock",
-    "number": 2,
+    "number": 3,
     "url": "https://www.fantasianorth.com/en/grand-alliance-death/20724-nighthaunt-krulghast-cruciator-5011921139040.html",
     "tags": [
       "Miniatures",
@@ -4732,8 +4732,8 @@
   {
     "title": "Revenant Wargrove",
     "price": 1481,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/33882-revenant-wargrove.html",
     "tags": [
       "Miniatures",
@@ -5562,8 +5562,8 @@
   {
     "title": "Soulblight Gravelords: Fell Bats",
     "price": 399,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/20816-soulblight-gravelords-fell-bats-5011921139071.html",
     "tags": [
       "Miniatures",
@@ -5668,8 +5668,8 @@
   {
     "title": "Squigboss with Gnasha-squig",
     "price": 228,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/games-workshop/36316-squigboss-with-gnasha-squig-5011921165339.html",
     "tags": [
       "Squigboss with Gnasha-squig"
@@ -5808,8 +5808,8 @@
   {
     "title": "Storm Dragon Guard",
     "price": 855,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/21837-stormdrake-guard-5011921155637.html",
     "tags": [
       "Miniatures",
@@ -6048,8 +6048,8 @@
   {
     "title": "Stormcast Eternals Sequitors",
     "price": 455,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/stormcast-eternals/15237-stormcast-eternals-sequitors-5011921165391.html",
     "tags": [
       "Miniatures",
