@@ -4220,8 +4220,8 @@
   {
     "title": "Nurglings",
     "price": 237,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/troops/7246-nurglings-5011921170388.html",
     "tags": [
       "Miniatures",
