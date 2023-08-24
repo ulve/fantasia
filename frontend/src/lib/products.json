@@ -331,8 +331,8 @@
   {
     "title": "Be'lakor the Dark Master",
     "price": 1025,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/hq/14038-belakor-the-dark-master-5011921138463.html",
     "tags": [
       "Miniatures",
@@ -1023,7 +1023,7 @@
     "title": "Clanrats",
     "price": 323,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/5782-skaven-clanrats-5011921179374.html",
     "tags": [
       "Miniatures",
@@ -1879,8 +1879,8 @@
   {
     "title": "Flamers of Tzeentch",
     "price": 237,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/elite/809-flamers-of-tzeentch-5011921178667.html",
     "tags": [
       "Miniatures",
@@ -2417,8 +2417,8 @@
   {
     "title": "Gobsprakk the Mouth of Mork",
     "price": 866,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/21322-gobsprakk-the-mouth-of-mork-5011921155743.html",
     "tags": [
       "Miniatures",
@@ -5035,7 +5035,7 @@
     "title": "Seraphon: Saurus Warriors",
     "price": 427,
     "availability": "In stock",
-    "number": 10,
+    "number": 9,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/37011-seraphon-saurus-warriors-5011921182381.html",
     "tags": [
       "Miniatures",
