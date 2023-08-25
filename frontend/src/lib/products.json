@@ -18,7 +18,7 @@
     "title": "Age of Sigmar: Arcane Cataclysm",
     "price": 1230,
     "availability": "In stock",
-    "number": 6,
+    "number": 5,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/23895-age-of-sigmar-arcane-cataclysm-5011921164837.html",
     "tags": [
       "Miniatures",
@@ -256,8 +256,8 @@
   {
     "title": "Auric Runemaster",
     "price": 275,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/5260-auric-runemaster-5011921067619.html",
     "tags": [
       "Miniatures",
@@ -706,8 +706,8 @@
   {
     "title": "Bullgors",
     "price": 359,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/12105-warherds-bullgors-5011921102723.html",
     "tags": [
       "Miniatures",
@@ -736,8 +736,8 @@
   {
     "title": "Cado Ezechiar the Hollow King",
     "price": 220,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/23892-cado-ezechiar-the-hollow-king-5011921163472.html",
     "tags": [
       "Miniatures",
@@ -1003,6 +1003,21 @@
       "Chaven Warplock Jezzails"
     ],
     "img": "https://www.fantasianorth.com/15364-large_default/skaven-warplock-jezzails.jpg"
+  },
+  {
+    "title": "Cities of Sigmar Army Set",
+    "price": 1367,
+    "availability": "Temporarily out of stock",
+    "number": null,
+    "url": "https://www.fantasianorth.com/en/cities-of-sigmar/37542-cities-of-sigmar-army-set.html",
+    "tags": [
+      "Miniatures",
+      "Aos",
+      "Grand Alliance Order",
+      "Cities of Sigmar",
+      "Cities of Sigmar Army Set"
+    ],
+    "img": "https://www.fantasianorth.com/16202-large_default/cities-of-sigmar-army-set.jpg"
   },
   {
     "title": "Cities of Sigmar: Norgrimm's Rune Throng",
@@ -1434,7 +1449,7 @@
     "title": "Disciples of Tzeentch:the Coven of Thryx",
     "price": 541,
     "availability": "In stock",
-    "number": 15,
+    "number": 14,
     "url": "https://www.fantasianorth.com/en/disciples-of-tzeentch/36599-disciples-of-tzeentchthe-coven-of-thryx-5011921210282.html",
     "tags": [
       "Miniatures",
@@ -1610,8 +1625,8 @@
   {
     "title": "Endless Spells: Gloomspite Gitz",
     "price": 346,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/10956-endless-spells-gloomspite-gitz-5011921118243.html",
     "tags": [
       "Miniatures",
@@ -1849,8 +1864,8 @@
   {
     "title": "Fellwater Troggoths",
     "price": 407,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/966-fellwater-troggoths-5011921090334.html",
     "tags": [
       "Miniatures",
@@ -1986,8 +2001,8 @@
   {
     "title": "Freeguild General On Griffon",
     "price": 488,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/857-karl-franz-on-deathclaw-5011921030590.html",
     "tags": [
       "Miniatures",
@@ -2002,7 +2017,7 @@
     "title": "Freeguild Greatswords",
     "price": 407,
     "availability": "In stock",
-    "number": 3,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/868-empire-greatswords-5011921015788.html",
     "tags": [
       "Miniatures",
@@ -2538,8 +2553,8 @@
   {
     "title": "Grot Fanatics",
     "price": 346,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/912-night-goblin-fanatics-5011921113118.html",
     "tags": [
       "Miniatures",
@@ -2628,8 +2643,8 @@
   {
     "title": "Hams",
     "price": 323,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/951-seraphon-skinks-5011921065103.html",
     "tags": [
       "Miniatures",
@@ -4160,8 +4175,8 @@
   {
     "title": "Nighthaunt Reikenor the Grimhailer",
     "price": 322,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/nighthaunt/15204-nighthaunt-reikenor-the-grimhailer-5011921177400.html",
     "tags": [
       "Miniatures",
@@ -4777,8 +4792,8 @@
   {
     "title": "Sake Altar",
     "price": 367,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/blades-of-khorne/16067-skull-altar-5011921118977.html",
     "tags": [
       "Miniatures",
@@ -4793,7 +4808,7 @@
     "title": "Saurus Astrolith Bearer",
     "price": 322,
     "availability": "In stock",
-    "number": 5,
+    "number": 4,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/37024-saurus-astrolith-bearer-5011921182244.html",
     "tags": [
       "Miniatures",
@@ -4928,7 +4943,7 @@
     "title": "Screamers of Tzeentch",
     "price": 275,
     "availability": "In stock",
-    "number": 1,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/fixed-attack/753-screamers-of-tzeentch-5011921077359.html",
     "tags": [
       "Miniatures",
@@ -4960,7 +4975,7 @@
     "title": "Seraphon Army Set",
     "price": 1481,
     "availability": "In stock",
-    "number": 3,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/seraphon/36916-seraphon-army-set-5011921180103.html",
     "tags": [
       "Miniatures",
@@ -5020,7 +5035,7 @@
     "title": "Seraphon: Lord Kroak",
     "price": 912,
     "availability": "In stock",
-    "number": 5,
+    "number": 4,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/20863-seraphon-lord-kroak-5011921137817.html",
     "tags": [
       "Miniatures",
@@ -5503,7 +5518,7 @@
     "title": "Sons of Behemat: King Brodd",
     "price": 1481,
     "availability": "In stock",
-    "number": 4,
+    "number": 3,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/28878-sons-of-behemat-king-brodd-5011921173075.html",
     "tags": [
       "Miniatures",
@@ -5652,8 +5667,8 @@
   {
     "title": "Spoilpox Scrivener",
     "price": 256,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/hq/14855-spoilpox-scrivener-5011921170340.html",
     "tags": [
       "Miniatures",
@@ -6108,7 +6123,7 @@
     "title": "Stormcast Eternals: Dracothian Guard",
     "price": 513,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/9225-stormcast-eternals-dracothian-guard-5011921166039.html",
     "tags": [
       "Miniatures",
@@ -6999,6 +7014,20 @@
     "img": "https://www.fantasianorth.com/15397-large_default/vanguard-ossiarch-bonereapers.jpg"
   },
   {
+    "title": "Vanguard: Seraphon",
+    "price": 968,
+    "availability": "Temporarily out of stock",
+    "number": null,
+    "url": "https://www.fantasianorth.com/en/start-collecting/37541-vanguard-seraphon.html",
+    "tags": [
+      "Miniatures",
+      "Aos",
+      "Start Collecting!",
+      "Vanguard: Seraphon"
+    ],
+    "img": "https://www.fantasianorth.com/16200-large_default/vanguard-seraphon.jpg"
+  },
+  {
     "title": "Vanguard: Skaven",
     "price": 774,
     "availability": "In stock",
@@ -7016,8 +7045,8 @@
   {
     "title": "Vanguard: Slaves To Darkness",
     "price": 968,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/slaves-to-darkness/36267-vanguard-slaves-to-darkness.html",
     "tags": [
       "Miniatures",
