@@ -706,8 +706,8 @@
   {
     "title": "Bullgors",
     "price": 359,
-    "availability": "In stock",
-    "number": 2,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/12105-warherds-bullgors-5011921102723.html",
     "tags": [
       "Miniatures",
@@ -1008,7 +1008,7 @@
     "title": "Cities of Sigmar Army Set",
     "price": 1367,
     "availability": "In stock",
-    "number": 18,
+    "number": 4,
     "url": "https://www.fantasianorth.com/en/cities-of-sigmar/37542-cities-of-sigmar-army-set.html",
     "tags": [
       "Miniatures",
@@ -2016,8 +2016,8 @@
   {
     "title": "Freeguild Greatswords",
     "price": 407,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/868-empire-greatswords-5011921015788.html",
     "tags": [
       "Miniatures",
@@ -2106,8 +2106,8 @@
   {
     "title": "Fyreslayers Magmadroth",
     "price": 797,
-    "availability": "In stock",
-    "number": 2,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/5200-fyreslayers-magmadroth-5011921173532.html",
     "tags": [
       "Miniatures",
@@ -3215,8 +3215,8 @@
   {
     "title": "Khinerai Lifetakers/heartrends",
     "price": 427,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/daughters-of-khaine/14959-daughters-of-khain-khinerai-5011921095483.html",
     "tags": [
       "Miniatures",
@@ -3336,7 +3336,7 @@
     "title": "Kroxigor",
     "price": 427,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/37028-kroxigor.html",
     "tags": [
       "Miniatures",
@@ -3801,8 +3801,8 @@
   {
     "title": "Melusai Blood Sisters/blood Stalkers",
     "price": 427,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/daughters-of-khaine/14958-daughters-of-khain-melusai-5011921177516.html",
     "tags": [
       "Miniatures",
@@ -3846,8 +3846,8 @@
   {
     "title": "Morathi",
     "price": 1082,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/daughters-of-khaine/14948-daughters-of-khaine-morathi-5011921095476.html",
     "tags": [
       "Miniatures",
@@ -3936,8 +3936,8 @@
   {
     "title": "Necromancer",
     "price": 138,
-    "availability": "In stock",
-    "number": 2,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/975-deathmages-necromancer-5011921081370.html",
     "tags": [
       "Miniatures",
@@ -4342,7 +4342,7 @@
     "title": "Orruk Warclans: Big Grikk's Kruleshots",
     "price": 683,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/orruk-warclans/36597-orruk-warclans-big-grikk-s-kruleshots-5011921210442.html",
     "tags": [
       "Miniatures",
@@ -4975,7 +4975,7 @@
     "title": "Seraphon Army Set",
     "price": 1481,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/seraphon/36916-seraphon-army-set-5011921180103.html",
     "tags": [
       "Miniatures",
@@ -5201,7 +5201,7 @@
     "title": "Skaven Skryre Acolytes",
     "price": 162,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/the-chaven/23871-skaven-skryre-acolytes-5011921995646.html",
     "tags": [
       "Miniatures",
@@ -5622,8 +5622,8 @@
   {
     "title": "Soulblight Gravelords: Veremord's Shamblers",
     "price": 484,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/soulblight-gravelords/36601-soulblight-gravelords-veremord-s-shamblers-5011921210268.html",
     "tags": [
       "Miniatures",
@@ -5751,8 +5751,8 @@
   {
     "title": "Start Collecting! Ironjawz",
     "price": 638,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/start-collecting/12948-start-collecting-ironjawz-5011921076611.html",
     "tags": [
       "Miniatures",
@@ -7031,7 +7031,7 @@
     "title": "Vanguard: Skaven",
     "price": 774,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/23641-vanguard-skaven-5011921173211.html",
     "tags": [
       "Miniatures",
