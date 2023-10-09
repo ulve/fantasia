@@ -48,7 +48,7 @@
     "title": "Age of Sigmar: Awakened Wyldwood",
     "price": 428,
     "availability": "In stock",
-    "number": 8,
+    "number": 7,
     "url": "https://www.fantasianorth.com/en/warhammer-age-of-sigmar/17245-age-of-sigmar-awakened-wyldwood-5011921123704.html",
     "tags": [
       "Miniatures",
@@ -91,8 +91,8 @@
   {
     "title": "Akhelian Leviathan",
     "price": 968,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/15104-akhelian-leviadon-5011921097531.html",
     "tags": [
       "Miniatures",
@@ -106,8 +106,8 @@
   {
     "title": "Alarith Stoneguard",
     "price": 427,
-    "availability": "In stock",
-    "number": 2,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/lumineth-realm-lords/19584-alarith-stoneguard-5011921137015.html",
     "tags": [
       "Miniatures",
@@ -122,7 +122,7 @@
     "title": "Alarith Stonemage",
     "price": 322,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/lumineth-realm-lords/19583-alarith-stonemage-5011921179565.html",
     "tags": [
       "Miniatures",
@@ -181,8 +181,8 @@
   {
     "title": "Archaon Everchosen Exalted Grand Marshal",
     "price": 1253,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/5142-archaon-everchosen-exalted-grand-marshal-5011921066766.html",
     "tags": [
       "Miniatures",
@@ -331,15 +331,14 @@
   {
     "title": "Be'lakor the Dark Master",
     "price": 1025,
-    "availability": "Temporarily out of stock",
-    "number": null,
-    "url": "https://www.fantasianorth.com/en/hq/14038-belakor-the-dark-master-5011921138463.html",
+    "availability": "In stock",
+    "number": 2,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/14038-belakor-the-dark-master-5011921138463.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Be'lakor the Dark Master"
     ],
     "img": "https://www.fantasianorth.com/9612-large_default/belakor-the-dark-master.jpg"
@@ -347,8 +346,8 @@
   {
     "title": "Beast Herdstone",
     "price": 367,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/beasts-of-chaos/15466-beast-herdstone-5011921108206.html",
     "tags": [
       "Miniatures",
@@ -362,8 +361,8 @@
   {
     "title": "Beast of Chaos: Beastlord",
     "price": 256,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/games-workshop/36313-beast-of-chaos-beastlord-5011921184057.html",
     "tags": [
       "Beast of Chaos: Beastlord"
@@ -373,15 +372,14 @@
   {
     "title": "Beast of Nurgle",
     "price": 379,
-    "availability": "Temporarily out of stock",
-    "number": null,
-    "url": "https://www.fantasianorth.com/en/elite/9308-daemons-of-nurgle-beast-of-nurgle-5011921170401.html",
+    "availability": "In stock",
+    "number": 4,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/9308-daemons-of-nurgle-beast-of-nurgle-5011921170401.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Elite",
       "Beast of Nurgle"
     ],
     "img": "https://www.fantasianorth.com/11850-large_default/daemons-of-nurgle-beast-of-nurgle.jpg"
@@ -448,8 +446,8 @@
   {
     "title": "Belladamma Volga First of the Vyrkos",
     "price": 399,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/20836-belladamma-volga-first-of-the-vyrkos-5011921139026.html",
     "tags": [
       "Miniatures",
@@ -521,32 +519,16 @@
     "img": "https://www.fantasianorth.com/9307-large_default/blissbarb-archers.jpg"
   },
   {
-    "title": "Bloodcrushers of Khorne",
-    "price": 793,
-    "availability": "In stock",
-    "number": 1,
-    "url": "https://www.fantasianorth.com/en/blades-of-khorne/822-bloodcrushers-of-khorne-5011921064021.html",
-    "tags": [
-      "Miniatures",
-      "Aos",
-      "Grand Alliance Chaos",
-      "Blades of Khorne",
-      "Bloodcrushers of Khorne"
-    ],
-    "img": "https://www.fantasianorth.com/4517-large_default/bloodcrushers-of-khorne.jpg"
-  },
-  {
     "title": "Bloodletters of Khorne",
     "price": 285,
     "availability": "In stock",
     "number": 1,
-    "url": "https://www.fantasianorth.com/en/troops/5810-bloodletters-of-khorne-5011921092864.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/5810-bloodletters-of-khorne-5011921092864.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Troops",
       "Bloodletters of Khorne"
     ],
     "img": "https://www.fantasianorth.com/4518-large_default/bloodletters-of-khorne.jpg"
@@ -555,14 +537,13 @@
     "title": "Bloodmaster Herald of Khorne",
     "price": 166,
     "availability": "In stock",
-    "number": 2,
-    "url": "https://www.fantasianorth.com/en/hq/25268-bloodmaster-herald-of-khorne-5011921113194.html",
+    "number": 1,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/25268-bloodmaster-herald-of-khorne-5011921113194.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Bloodmaster Herald of Khorne"
     ],
     "img": "https://www.fantasianorth.com/14430-large_default/bloodmaster-herald-of-khorne.jpg"
@@ -602,13 +583,12 @@
     "price": 303,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/troops/13558-blue-horrors-5011921178698.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/13558-blue-horrors-5011921178698.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Troops",
       "Blue Horrors"
     ],
     "img": "https://www.fantasianorth.com/4195-large_default/blue-horrors.jpg"
@@ -646,8 +626,8 @@
   {
     "title": "Braggit's Bottle-snatchaz",
     "price": 911,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/gloomspite-gitz/37368-braggit-s-bottle-snatchaz-5011921200993.html",
     "tags": [
       "Miniatures",
@@ -691,8 +671,8 @@
   {
     "title": "Brutes",
     "price": 428,
-    "availability": "In stock",
-    "number": 2,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/12058-ironjaws-orruk-brutes-5011921165292.html",
     "tags": [
       "Miniatures",
@@ -737,7 +717,7 @@
     "title": "Cado Ezechiar the Hollow King",
     "price": 220,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/23892-cado-ezechiar-the-hollow-king-5011921163472.html",
     "tags": [
       "Miniatures",
@@ -856,15 +836,14 @@
   {
     "title": "Chaos Daemon Burning Chariot of Tzeentch",
     "price": 407,
-    "availability": "In stock",
-    "number": 1,
-    "url": "https://www.fantasianorth.com/en/hq/775-herald-of-tzeentch-on-burning-chariot-5011921077328.html",
+    "availability": "Temporarily out of stock",
+    "number": null,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/775-herald-of-tzeentch-on-burning-chariot-5011921077328.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Chaos Daemon Burning Chariot of Tzeentch"
     ],
     "img": "https://www.fantasianorth.com/363-large_default/herald-of-tzeentch-on-burning-chariot.jpg"
@@ -932,8 +911,8 @@
   {
     "title": "Chaos Warhounds",
     "price": 245,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/831-chaos-warhounds-5011921102747.html",
     "tags": [
       "Miniatures",
@@ -962,8 +941,8 @@
   {
     "title": "Chaotic Beasts",
     "price": 407,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/36332-chaotic-beasts-5011921202737.html",
     "tags": [
       "Miniatures",
@@ -1007,8 +986,8 @@
   {
     "title": "Cities of Sigmar Army Set",
     "price": 1367,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/cities-of-sigmar/37542-cities-of-sigmar-army-set.html",
     "tags": [
       "Miniatures",
@@ -1023,7 +1002,7 @@
     "title": "Cities of Sigmar: Norgrimm's Rune Throng",
     "price": 740,
     "availability": "In stock",
-    "number": 13,
+    "number": 11,
     "url": "https://www.fantasianorth.com/en/cities-of-sigmar/36600-cities-of-sigmar-norgrimm-s-rune-throng-5011921210251.html",
     "tags": [
       "Miniatures",
@@ -1128,8 +1107,8 @@
   {
     "title": "Copy of Khorne Bloodbound, Blood Warriors",
     "price": 455,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/36256-khorne-bloodbound-blood-warriors-5011921063581.html",
     "tags": [
       "Miniatures",
@@ -1143,8 +1122,8 @@
   {
     "title": "Copy of Sylvaneth Dryads",
     "price": 380,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/36258-sylvaneth-dryads-5011921179398.html",
     "tags": [
       "Miniatures",
@@ -1189,7 +1168,7 @@
     "title": "Crypt Ghouls",
     "price": 323,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/5780-flesh-eater-courts-crypt-ghouls-5011921070398.html",
     "tags": [
       "Miniatures",
@@ -1245,33 +1224,16 @@
     "img": "https://www.fantasianorth.com/15362-large_default/cypher-lords.jpg"
   },
   {
-    "title": "Daemon Prince",
-    "price": 341,
-    "availability": "Temporarily out of stock",
-    "number": null,
-    "url": "https://www.fantasianorth.com/en/hq/5786-daemon-prince-5011921066902.html",
-    "tags": [
-      "Miniatures",
-      "Wh 40k",
-      "Armies of Chaos",
-      "Chaos Daemons",
-      "Hq",
-      "Daemon Prince"
-    ],
-    "img": "https://www.fantasianorth.com/4519-large_default/daemon-prince.jpg"
-  },
-  {
     "title": "Daemonettes of Slaanesh",
     "price": 275,
-    "availability": "In stock",
-    "number": 3,
-    "url": "https://www.fantasianorth.com/en/troops/770-daemonettes-of-slaanesh-5011921085521.html",
+    "availability": "Temporarily out of stock",
+    "number": null,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/770-daemonettes-of-slaanesh-5011921085521.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Troops",
       "Daemonettes of Slaanesh"
     ],
     "img": "https://www.fantasianorth.com/357-large_default/daemonettes-of-slaanesh.jpg"
@@ -1281,12 +1243,12 @@
     "price": 379,
     "availability": "In stock",
     "number": 2,
-    "url": "https://www.fantasianorth.com/en/blades-of-khorne/834-daemons-of-khorne-flesh-hounds-5011921113170.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/834-daemons-of-khorne-flesh-hounds-5011921113170.html",
     "tags": [
       "Miniatures",
-      "Aos",
-      "Grand Alliance Chaos",
-      "Blades of Khorne",
+      "Wh 40k",
+      "Armies of Chaos",
+      "Chaos Daemons",
       "Daemons of Khorne Flesh Hounds"
     ],
     "img": "https://www.fantasianorth.com/6063-large_default/daemons-of-khorne-flesh-hounds.jpg"
@@ -1294,10 +1256,14 @@
   {
     "title": "Daemons of Slaanesh Keeper of Secrets",
     "price": 1083,
-    "availability": "Temporarily out of stock",
-    "number": null,
-    "url": "https://www.fantasianorth.com/en/home/16419-daemons-of-slaanesh-keeper-of-secrets-5011921116270.html",
+    "availability": "In stock",
+    "number": 2,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/16419-daemons-of-slaanesh-keeper-of-secrets-5011921116270.html",
     "tags": [
+      "Miniatures",
+      "Wh 40k",
+      "Armies of Chaos",
+      "Chaos Daemons",
       "Daemons of Slaanesh Keeper of Secrets"
     ],
     "img": "https://www.fantasianorth.com/6201-large_default/daemons-of-slaanesh-keeper-of-secrets.jpg"
@@ -1307,8 +1273,12 @@
     "price": 407,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/home/16413-daemons-of-slaanesh-fiends-5011921114054.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/16413-daemons-of-slaanesh-fiends-5011921114054.html",
     "tags": [
+      "Miniatures",
+      "Wh 40k",
+      "Armies of Chaos",
+      "Chaos Daemons",
       "Daemons of Slaanesh: Fiends"
     ],
     "img": "https://www.fantasianorth.com/6197-large_default/daemons-of-slaanesh-fiends.jpg"
@@ -1316,10 +1286,14 @@
   {
     "title": "Daemons of Slaanesh: the Masque",
     "price": 237,
-    "availability": "Temporarily out of stock",
-    "number": null,
-    "url": "https://www.fantasianorth.com/en/home/16389-daemons-of-slaanesh-the-masque-5011921114047.html",
+    "availability": "In stock",
+    "number": 1,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/16389-daemons-of-slaanesh-the-masque-5011921114047.html",
     "tags": [
+      "Miniatures",
+      "Wh 40k",
+      "Armies of Chaos",
+      "Chaos Daemons",
       "Daemons of Slaanesh: the Masque"
     ],
     "img": "https://www.fantasianorth.com/6204-large_default/daemons-of-slaanesh-the-masque.jpg"
@@ -1329,13 +1303,12 @@
     "price": 346,
     "availability": "In stock",
     "number": 5,
-    "url": "https://www.fantasianorth.com/en/hq/16407-daemons-of-slaanesh-infernal-enrapturess-5011921114061.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/16407-daemons-of-slaanesh-infernal-enrapturess-5011921114061.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Daemons of Slaanesh:infernal Enrapturess"
     ],
     "img": "https://www.fantasianorth.com/6198-large_default/daemons-of-slaanesh-infernal-enrapturess.jpg"
@@ -1373,8 +1346,8 @@
   {
     "title": "Deadwalker Zombies",
     "price": 398,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/1027-deadwalker-zombies-5011921141326.html",
     "tags": [
       "Miniatures",
@@ -1389,7 +1362,7 @@
     "title": "Deathrattle Skeletons",
     "price": 427,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/20819-deathrattle-skeletons-5011921139057.html",
     "tags": [
       "Miniatures",
@@ -1433,8 +1406,8 @@
   {
     "title": "Dire Wolves",
     "price": 319,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/20839-dire-wolves-5011921139064.html",
     "tags": [
       "Miniatures",
@@ -1508,8 +1481,8 @@
   {
     "title": "Drakespawn Knights",
     "price": 275,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/890-dark-elf-cold-one-knights-5011921008728.html",
     "tags": [
       "Miniatures",
@@ -1538,8 +1511,8 @@
   {
     "title": "Dreadspears/dreadswords/darkshards",
     "price": 305,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/988-dark-elves-dreadspears-5011921048588.html",
     "tags": [
       "Miniatures",
@@ -1610,8 +1583,8 @@
   {
     "title": "Endless Spells: Flesh-eater Courts",
     "price": 346,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/flesh-eater-courts/16010-endless-spells-flesh-eater-courts-5011921118786.html",
     "tags": [
       "Miniatures",
@@ -1656,7 +1629,7 @@
     "title": "Endless Spells: Lumineth Realm-lords",
     "price": 346,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/lumineth-realm-lords/19544-endless-spells-lumineth-realm-lords-5011921133666.html",
     "tags": [
       "Miniatures",
@@ -1715,8 +1688,8 @@
   {
     "title": "Endless Spells: Stormcast Eternals",
     "price": 345,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/stormcast-eternals/15171-endless-spells-stormcast-eternals-5011921098637.html",
     "tags": [
       "Miniatures",
@@ -1762,12 +1735,12 @@
     "price": 342,
     "availability": "In stock",
     "number": 1,
-    "url": "https://www.fantasianorth.com/en/maggotkin-of-nurgle/20466-epidemius-5011921037414.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/20466-epidemius-5011921037414.html",
     "tags": [
       "Miniatures",
-      "Aos",
-      "Grand Alliance Chaos",
-      "Maggotkin of Nurgle",
+      "Wh 40k",
+      "Armies of Chaos",
+      "Chaos Daemons",
       "Epidemicus"
     ],
     "img": "https://www.fantasianorth.com/10610-large_default/epidemius.jpg"
@@ -1791,7 +1764,7 @@
     "title": "Eternus Blade of the First Prince",
     "price": 427,
     "availability": "In stock",
-    "number": 3,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/36265-eternus-blade-of-the-first-prince.html",
     "tags": [
       "Miniatures",
@@ -1805,8 +1778,8 @@
   {
     "title": "Etheric Vortex: Gloomtide Shipwreck",
     "price": 448,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/games-workshop/15030-etheric-vortex-gloomtide-shipwreck-5011921096862.html",
     "tags": [
       "Paints, Hobby & Scenery",
@@ -1894,15 +1867,14 @@
   {
     "title": "Flamers of Tzeentch",
     "price": 237,
-    "availability": "Temporarily out of stock",
-    "number": null,
-    "url": "https://www.fantasianorth.com/en/elite/809-flamers-of-tzeentch-5011921178667.html",
+    "availability": "In stock",
+    "number": 1,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/809-flamers-of-tzeentch-5011921178667.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Elite",
       "Flamers of Tzeentch"
     ],
     "img": "https://www.fantasianorth.com/14233-large_default/flamers-of-tzeentch.jpg"
@@ -1940,8 +1912,8 @@
   {
     "title": "Flesh-eater Courts Charnel Throne",
     "price": 367,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/flesh-eater-courts/16008-flesh-eater-courts-charnel-throne-5011921118779.html",
     "tags": [
       "Miniatures",
@@ -1956,7 +1928,7 @@
     "title": "Flesh-eater Courts: Jerrion's Delegation",
     "price": 911,
     "availability": "In stock",
-    "number": 3,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/flesh-eater-courts/37369-flesh-eater-courts-jerrion-s-delegation-5011921200986.html",
     "tags": [
       "Miniatures",
@@ -1972,13 +1944,12 @@
     "price": 367,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/hq/36370-fluxmaster-herald-of-tzeentch-5011921025428.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/36370-fluxmaster-herald-of-tzeentch-5011921025428.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Fluxmaster Herald of Tzeentch"
     ],
     "img": "https://www.fantasianorth.com/15338-large_default/fluxmaster-herald-of-tzeentch.jpg"
@@ -1986,8 +1957,8 @@
   {
     "title": "Forest Goblin Spider Riders",
     "price": 236,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/gloomspite-gitz/22350-forest-goblin-spider-riders-5011921910007.html",
     "tags": [
       "Miniatures",
@@ -2091,8 +2062,8 @@
   {
     "title": "Fyreslayers Hearthguard",
     "price": 379,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/5258-fyreslayers-hearthguard-5011921173525.html",
     "tags": [
       "Miniatures",
@@ -2106,8 +2077,8 @@
   {
     "title": "Fyreslayers Magmadroth",
     "price": 797,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/5200-fyreslayers-magmadroth-5011921173532.html",
     "tags": [
       "Miniatures",
@@ -2211,8 +2182,8 @@
   {
     "title": "Galen &doralia Ven Denst",
     "price": 398,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/20864-galen-doralia-ven-denst-5011921155149.html",
     "tags": [
       "Miniatures",
@@ -2256,8 +2227,8 @@
   {
     "title": "Gloomspite Gitz Dankhold Troggoth",
     "price": 513,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/15919-gloomspite-gitz-dankhold-troggoth-5011921113095.html",
     "tags": [
       "Miniatures",
@@ -2271,8 +2242,8 @@
   {
     "title": "Gloomspite Gitz Gobbapalooza",
     "price": 419,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/15918-gloomspite-gitz-gobbapalooza-5011921113101.html",
     "tags": [
       "Miniatures",
@@ -2287,7 +2258,7 @@
     "title": "Gloomspite Gitz Loonboss",
     "price": 239,
     "availability": "In stock",
-    "number": 2,
+    "number": 3,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/15917-gloomspite-gitz-loonboss-5011921076673.html",
     "tags": [
       "Miniatures",
@@ -2347,7 +2318,7 @@
     "title": "Gloomspite Gitz Sneaky Snufflers",
     "price": 346,
     "availability": "In stock",
-    "number": 1,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/15921-gloomspite-gitz-sneaky-snufflers-5011921112210.html",
     "tags": [
       "Miniatures",
@@ -2404,15 +2375,37 @@
     "img": "https://www.fantasianorth.com/5962-large_default/gloomspite-gitz-bad-moon-loonshrine.jpg"
   },
   {
+    "title": "Gloomspite Gitz: Rabble-rowza",
+    "price": 237,
+    "availability": "In stock",
+    "number": 11,
+    "url": "https://www.fantasianorth.com/en/games-workshop/37585-gloomspite-gitz-rabble-rowza-5011921211593.html",
+    "tags": [
+      "Gloomspite Gitz: Rabble-rowza"
+    ],
+    "img": "https://www.fantasianorth.com/16231-large_default/gloomspite-gitz-rabble-rowza.jpg"
+  },
+  {
     "title": "Gloomspite Gitz: Snarlfang Riders",
     "price": 427,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/games-workshop/36317-gloomspite-gitz-snarlfang-riders-5011921162949.html",
     "tags": [
       "Gloomspite Gitz: Snarlfang Riders"
     ],
     "img": "https://www.fantasianorth.com/14379-large_default/gloomspite-gitz-snarlfang-riders.jpg"
+  },
+  {
+    "title": "Gloomspite Gitz: Trugg's Great Troggherd",
+    "price": 1025,
+    "availability": "In stock",
+    "number": 6,
+    "url": "https://www.fantasianorth.com/en/games-workshop/37578-gloomspite-gitz-trugg-s-great-troggherd.html",
+    "tags": [
+      "Gloomspite Gitz: Trugg's Great Troggherd"
+    ],
+    "img": "https://www.fantasianorth.com/16224-large_default/gloomspite-gitz-trugg-s-great-troggherd.jpg"
   },
   {
     "title": "Glutos Orscollion Lord of Gluttony",
@@ -2507,15 +2500,14 @@
   {
     "title": "Great Unclean One",
     "price": 1082,
-    "availability": "In stock",
-    "number": 2,
-    "url": "https://www.fantasianorth.com/en/hq/14854-great-unclean-one-5011921170418.html",
+    "availability": "Temporarily out of stock",
+    "number": null,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/14854-great-unclean-one-5011921170418.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Great Unclean One"
     ],
     "img": "https://www.fantasianorth.com/5143-large_default/great-unclean-one.jpg"
@@ -2554,7 +2546,7 @@
     "title": "Grot Fanatics",
     "price": 346,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/912-night-goblin-fanatics-5011921113118.html",
     "tags": [
       "Miniatures",
@@ -2569,7 +2561,7 @@
     "title": "Gutrippaz",
     "price": 319,
     "availability": "In stock",
-    "number": 3,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/21323-gutrippaz-5011921155736.html",
     "tags": [
       "Miniatures",
@@ -2643,8 +2635,8 @@
   {
     "title": "Hams",
     "price": 323,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/951-seraphon-skinks-5011921065103.html",
     "tags": [
       "Miniatures",
@@ -2705,13 +2697,12 @@
     "price": 367,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/hq/28977-herald-of-khorne-on-juggernaut-5011921037445.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/28977-herald-of-khorne-on-juggernaut-5011921037445.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Herald of Khorne On Juggernaut"
     ],
     "img": "https://www.fantasianorth.com/15340-large_default/herald-of-khorne-on-juggernaut.jpg"
@@ -2721,13 +2712,12 @@
     "price": 458,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/hq/14856-horticulous-slimux-5011921092499.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/14856-horticulous-slimux-5011921092499.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Horticulous Slimux"
     ],
     "img": "https://www.fantasianorth.com/5141-large_default/horticulous-slimux.jpg"
@@ -2947,12 +2937,12 @@
     "price": 305,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/blades-of-khorne/16068-karanak-5011921113187.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/16068-karanak-5011921113187.html",
     "tags": [
       "Miniatures",
-      "Aos",
-      "Grand Alliance Chaos",
-      "Blades of Khorne",
+      "Wh 40k",
+      "Armies of Chaos",
+      "Chaos Daemons",
       "Karanak the Hound of Vengeance"
     ],
     "img": "https://www.fantasianorth.com/6064-large_default/karanak.jpg"
@@ -3020,8 +3010,8 @@
   {
     "title": "Kharadon Overlords: Arkanaut Company",
     "price": 398,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/kharadron-overlords/13803-kharadon-overlords-arkanaut-company-5011921082971.html",
     "tags": [
       "Miniatures",
@@ -3065,8 +3055,8 @@
   {
     "title": "Kharadron Overlords Aether-khemist",
     "price": 239,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/kharadron-overlords/13852-kharadron-overlords-aether-khemist-5011921083046.html",
     "tags": [
       "Miniatures",
@@ -3155,8 +3145,8 @@
   {
     "title": "Kharadron Overlords: Grundstok Gunhauler",
     "price": 428,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/kharadron-overlords/13812-kharadron-overlords-grundstok-gunhauler-5011921082964.html",
     "tags": [
       "Miniatures",
@@ -3215,8 +3205,8 @@
   {
     "title": "Khinerai Lifetakers/heartrends",
     "price": 427,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/daughters-of-khaine/14959-daughters-of-khain-khinerai-5011921095483.html",
     "tags": [
       "Miniatures",
@@ -3305,8 +3295,8 @@
   {
     "title": "Kritza: the Rat Prince",
     "price": 205,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/20837-kritza-the-rat-prince-5011921139019.html",
     "tags": [
       "Miniatures",
@@ -3336,7 +3326,7 @@
     "title": "Kroxigor",
     "price": 427,
     "availability": "In stock",
-    "number": 1,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/37028-kroxigor.html",
     "tags": [
       "Miniatures",
@@ -3425,8 +3415,8 @@
   {
     "title": "Lord of Blights",
     "price": 223,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/maggotkin-of-nurgle/14865-nurgle-rotbringers-lord-of-blights-5011921170333.html",
     "tags": [
       "Miniatures",
@@ -3440,15 +3430,14 @@
   {
     "title": "Lord of Change",
     "price": 1025,
-    "availability": "Temporarily out of stock",
-    "number": null,
-    "url": "https://www.fantasianorth.com/en/hq/13562-lord-of-change-5011921077304.html",
+    "availability": "In stock",
+    "number": 1,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/13562-lord-of-change-5011921077304.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Lord of Change"
     ],
     "img": "https://www.fantasianorth.com/4198-large_default/lord-of-change.jpg"
@@ -3456,8 +3445,8 @@
   {
     "title": "Lord of Hubris",
     "price": 256,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/36727-lord-of-hubris-5011921189663.html",
     "tags": [
       "Miniatures",
@@ -3471,8 +3460,8 @@
   {
     "title": "Lord of Pain",
     "price": 227,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/20431-lord-of-pain-5011921128167.html",
     "tags": [
       "Miniatures",
@@ -3546,8 +3535,8 @@
   {
     "title": "Lord-commander Bastian Carthalos",
     "price": 322,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/21438-lord-commander-bastian-carthalos-5011921154289.html",
     "tags": [
       "Miniatures",
@@ -3772,7 +3761,7 @@
     "title": "Megaboss",
     "price": 323,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/12047-orruk-mega-boss-5011921165278.html",
     "tags": [
       "Miniatures",
@@ -3787,7 +3776,7 @@
     "title": "Megaboss On Maw-krusha",
     "price": 912,
     "availability": "In stock",
-    "number": 3,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/12062-orruk-maw-krusha-5011921165308.html",
     "tags": [
       "Miniatures",
@@ -3846,8 +3835,8 @@
   {
     "title": "Morathi",
     "price": 1082,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/daughters-of-khaine/14948-daughters-of-khaine-morathi-5011921095476.html",
     "tags": [
       "Miniatures",
@@ -3936,8 +3925,8 @@
   {
     "title": "Necromancer",
     "price": 138,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/975-deathmages-necromancer-5011921081370.html",
     "tags": [
       "Miniatures",
@@ -3981,8 +3970,8 @@
   {
     "title": "Nighthaunt Bladegheist Revenants",
     "price": 380,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/nighthaunt/15262-nighthaunt-bladegheist-revenants-5011921177462.html",
     "tags": [
       "Miniatures",
@@ -4026,8 +4015,8 @@
   {
     "title": "Nighthaunt Crawlocke the Jailor",
     "price": 346,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/nighthaunt/15168-nighthaunt-crawlocke-the-jailor-5011921100828.html",
     "tags": [
       "Miniatures",
@@ -4117,7 +4106,7 @@
     "title": "Nighthaunt Krulghast Cruciator",
     "price": 228,
     "availability": "In stock",
-    "number": 3,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/grand-alliance-death/20724-nighthaunt-krulghast-cruciator-5011921139040.html",
     "tags": [
       "Miniatures",
@@ -4130,8 +4119,8 @@
   {
     "title": "Nighthaunt Lady Disobedients",
     "price": 380,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/nighthaunt/15174-nighthaunt-lady-olynder-5011921177448.html",
     "tags": [
       "Miniatures",
@@ -4160,8 +4149,8 @@
   {
     "title": "Nighthaunt Myrmourn Banshees",
     "price": 138,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/nighthaunt/15160-nighthaunt-myrmourn-banshees-5011921177387.html",
     "tags": [
       "Miniatures",
@@ -4175,8 +4164,8 @@
   {
     "title": "Nighthaunt Reikenor the Grimhailer",
     "price": 322,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/nighthaunt/15204-nighthaunt-reikenor-the-grimhailer-5011921177400.html",
     "tags": [
       "Miniatures",
@@ -4237,13 +4226,12 @@
     "price": 237,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/troops/7246-nurglings-5011921170388.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/7246-nurglings-5011921170388.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Troops",
       "Nurglings"
     ],
     "img": "https://www.fantasianorth.com/2202-large_default/nurglings.jpg"
@@ -4266,8 +4254,8 @@
   {
     "title": "Ogor Mawtribes Butcher",
     "price": 293,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/ogor-mawtribes/20980-ogor-mawtribes-butcher.html",
     "tags": [
       "Miniatures",
@@ -4326,8 +4314,8 @@
   {
     "title": "Orruk Warclans Man-skewer Boltboyz",
     "price": 304,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/21443-orruk-warclans-man-skewer-boltboyz-5011921155712.html",
     "tags": [
       "Miniatures",
@@ -4339,10 +4327,25 @@
     "img": "https://www.fantasianorth.com/10189-large_default/orruk-warclans-man-skewer-boltboyz.jpg"
   },
   {
+    "title": "Orruk Warclans: Ardboy Big Boss",
+    "price": 256,
+    "availability": "In stock",
+    "number": 7,
+    "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/37579-orruk-warclans-ardboy-big-boss.html",
+    "tags": [
+      "Miniatures",
+      "Aos",
+      "Grand Alliance Destruction",
+      "All Armies of Destruction",
+      "Orruk Warclans: Ardboy Big Boss"
+    ],
+    "img": "https://www.fantasianorth.com/16225-large_default/orruk-warclans-ardboy-big-boss.jpg"
+  },
+  {
     "title": "Orruk Warclans: Big Grikk's Kruleshots",
     "price": 683,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/orruk-warclans/36597-orruk-warclans-big-grikk-s-kruleshots-5011921210442.html",
     "tags": [
       "Miniatures",
@@ -4369,6 +4372,21 @@
     "img": "https://www.fantasianorth.com/10188-large_default/orruk-warclans-hobgrot-slittas.jpg"
   },
   {
+    "title": "Orruk Warclans: Kruleboyz Monsta-killaz",
+    "price": 398,
+    "availability": "Temporarily out of stock",
+    "number": null,
+    "url": "https://www.fantasianorth.com/en/warbands/37631-orruk-warclans-kruleboyz-monsta-killaz.html",
+    "tags": [
+      "Miniatures",
+      "Games Workshop",
+      "Warcry",
+      "Warbands",
+      "Orruk Warclans: Kruleboyz Monsta-killaz"
+    ],
+    "img": "https://www.fantasianorth.com/16266-large_default/orruk-warclans-kruleboyz-monsta-killaz.jpg"
+  },
+  {
     "title": "Orruk Warclans: Orruk Ardboys",
     "price": 342,
     "availability": "Temporarily out of stock",
@@ -4382,6 +4400,50 @@
       "Orruk Warclans: Orruk Ardboys"
     ],
     "img": "https://www.fantasianorth.com/11667-large_default/orruk-warclans-orruk-ardboys.jpg"
+  },
+  {
+    "title": "Orruk Warclans: Orruk Ardboyz",
+    "price": 427,
+    "availability": "In stock",
+    "number": 4,
+    "url": "https://www.fantasianorth.com/en/games-workshop/37580-orruk-warclans-orruk-ardboyz-5011921201204.html",
+    "tags": [
+      "Orruk Warclans: Orruk Ardboyz"
+    ],
+    "img": "https://www.fantasianorth.com/16226-large_default/orruk-warclans-orruk-ardboyz.jpg"
+  },
+  {
+    "title": "Orruk Warclans: Tuskboss On Maw-grunta",
+    "price": 541,
+    "availability": "In stock",
+    "number": 4,
+    "url": "https://www.fantasianorth.com/en/games-workshop/37583-orruk-warclans-tuskboss-on-maw-grunta.html",
+    "tags": [
+      "Orruk Warclans: Tuskboss On Maw-grunta"
+    ],
+    "img": "https://www.fantasianorth.com/16229-large_default/orruk-warclans-tuskboss-on-maw-grunta.jpg"
+  },
+  {
+    "title": "Orruk Warclans: Weirdbrute Wrekkaz",
+    "price": 398,
+    "availability": "Temporarily out of stock",
+    "number": null,
+    "url": "https://www.fantasianorth.com/en/games-workshop/37584-orruk-warclans-weirdbrute-wrekkaz-99120209114.html",
+    "tags": [
+      "Orruk Warclans: Weirdbrute Wrekkaz"
+    ],
+    "img": "https://www.fantasianorth.com/16230-large_default/orruk-warclans-weirdbrute-wrekkaz.jpg"
+  },
+  {
+    "title": "Orruk Warclans: Zoggrok Anvilsmasha",
+    "price": 322,
+    "availability": "In stock",
+    "number": 7,
+    "url": "https://www.fantasianorth.com/en/games-workshop/37581-orruk-warclans-zoggrok-anvilsmasha.html",
+    "tags": [
+      "Orruk Warclans: Zoggrok Anvilsmasha"
+    ],
+    "img": "https://www.fantasianorth.com/16227-large_default/orruk-warclans-zoggrok-anvilsmasha.jpg"
   },
   {
     "title": "Ossiarch Bonereaper: Mortisan Tithe-echelon",
@@ -4416,8 +4478,8 @@
   {
     "title": "Ossiarch Bonereapers Kavalos Deathriders",
     "price": 428,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/18290-ossiarch-bonereapers-kavalos-deathriders-5011921126323.html",
     "tags": [
       "Miniatures",
@@ -4521,8 +4583,8 @@
   {
     "title": "Ossiarch Bonereapers Necropolis Stalkers",
     "price": 399,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/18296-ossiarch-bonereapers-necropolis-stalkers-5011921126286.html",
     "tags": [
       "Miniatures",
@@ -4537,7 +4599,7 @@
     "title": "Ossiarch Bonereapers: Bone-tithe Nexus",
     "price": 488,
     "availability": "In stock",
-    "number": 3,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/18249-ossiarch-bonereapers-bone-tithe-nexus-5011921129232.html",
     "tags": [
       "Miniatures",
@@ -4551,15 +4613,14 @@
   {
     "title": "Pink Horrors of Tzeentch",
     "price": 303,
-    "availability": "Temporarily out of stock",
-    "number": null,
-    "url": "https://www.fantasianorth.com/en/troops/778-pink-horrors-of-tzeentch-5011921178681.html",
+    "availability": "In stock",
+    "number": 1,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/778-pink-horrors-of-tzeentch-5011921178681.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Troops",
       "Pink Horrors of Tzeentch"
     ],
     "img": "https://www.fantasianorth.com/13937-large_default/pink-horrors-of-tzeentch.jpg"
@@ -4598,14 +4659,13 @@
     "title": "Plaguebearers of Nurgle",
     "price": 275,
     "availability": "In stock",
-    "number": 2,
-    "url": "https://www.fantasianorth.com/en/troops/1424-plaguebearers-of-nurgle-5011921170395.html",
+    "number": 1,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/1424-plaguebearers-of-nurgle-5011921170395.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Troops",
       "Plaguebearers of Nurgle"
     ],
     "img": "https://www.fantasianorth.com/8716-large_default/plaguebearers-of-nurgle.jpg"
@@ -4703,7 +4763,7 @@
     "title": "Raptadon Hunters",
     "price": 455,
     "availability": "In stock",
-    "number": 8,
+    "number": 7,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/37025-raptadon-hunters-5011921182404.html",
     "tags": [
       "Miniatures",
@@ -4808,7 +4868,7 @@
     "title": "Saurus Astrolith Bearer",
     "price": 322,
     "availability": "In stock",
-    "number": 4,
+    "number": 5,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/37024-saurus-astrolith-bearer-5011921182244.html",
     "tags": [
       "Miniatures",
@@ -4837,8 +4897,8 @@
   {
     "title": "Saurus Guard",
     "price": 428,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/963-seraphon-saurus-guard-5011921066322.html",
     "tags": [
       "Miniatures",
@@ -4943,14 +5003,13 @@
     "title": "Screamers of Tzeentch",
     "price": 275,
     "availability": "In stock",
-    "number": 2,
-    "url": "https://www.fantasianorth.com/en/fixed-attack/753-screamers-of-tzeentch-5011921077359.html",
+    "number": 1,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/753-screamers-of-tzeentch-5011921077359.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Fixed Attack",
       "Screamers of Tzeentch"
     ],
     "img": "https://www.fantasianorth.com/13934-large_default/screamers-of-tzeentch.jpg"
@@ -4960,13 +5019,12 @@
     "price": 244,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/fixed-attack/810-seekers-of-slaanesh-5011921013357.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/810-seekers-of-slaanesh-5011921013357.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Fixed Attack",
       "Seekers of Slaanesh"
     ],
     "img": "https://www.fantasianorth.com/386-large_default/seekers-of-slaanesh.jpg"
@@ -5035,7 +5093,7 @@
     "title": "Seraphon: Lord Kroak",
     "price": 912,
     "availability": "In stock",
-    "number": 4,
+    "number": 3,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/20863-seraphon-lord-kroak-5011921137817.html",
     "tags": [
       "Miniatures",
@@ -5050,7 +5108,7 @@
     "title": "Seraphon: Saurus Warriors",
     "price": 427,
     "availability": "In stock",
-    "number": 9,
+    "number": 8,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/37011-seraphon-saurus-warriors-5011921182381.html",
     "tags": [
       "Miniatures",
@@ -5065,7 +5123,7 @@
     "title": "Seraphon: Skink Starseer",
     "price": 398,
     "availability": "In stock",
-    "number": 6,
+    "number": 5,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/37030-seraphon-skink-starseer-5011921182190.html",
     "tags": [
       "Miniatures",
@@ -5154,15 +5212,14 @@
   {
     "title": "Skarbrand the Bloodthirster",
     "price": 1025,
-    "availability": "Temporarily out of stock",
-    "number": null,
-    "url": "https://www.fantasianorth.com/en/hq/5027-skarbrand-the-bloodthirster-5011921063857.html",
+    "availability": "In stock",
+    "number": 1,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/5027-skarbrand-the-bloodthirster-5011921063857.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Skarbrand the Bloodthirster"
     ],
     "img": "https://www.fantasianorth.com/195-large_default/skarbrand-the-bloodthirster.jpg"
@@ -5230,8 +5287,8 @@
   {
     "title": "Skaven: Deathmaster",
     "price": 205,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/23893-skaven-deathmaster-5011921177929.html",
     "tags": [
       "Miniatures",
@@ -5245,8 +5302,8 @@
   {
     "title": "Skullcrushers of Khorne",
     "price": 793,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/blades-of-khorne/1204-skullcrushers-of-khorne-5011921064052.html",
     "tags": [
       "Miniatures",
@@ -5262,12 +5319,12 @@
     "price": 275,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/blades-of-khorne/16066-skulltaker-5011921113163.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/16066-skulltaker-5011921113163.html",
     "tags": [
       "Miniatures",
-      "Aos",
-      "Grand Alliance Chaos",
-      "Blades of Khorne",
+      "Wh 40k",
+      "Armies of Chaos",
+      "Chaos Daemons",
       "Skulltaker"
     ],
     "img": "https://www.fantasianorth.com/6061-large_default/skulltaker.jpg"
@@ -5291,7 +5348,7 @@
     "title": "Slann Starmaster",
     "price": 598,
     "availability": "In stock",
-    "number": 8,
+    "number": 7,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/37023-slann-starmaster-5011921182398.html",
     "tags": [
       "Miniatures",
@@ -5366,7 +5423,7 @@
     "title": "Slaves To Darkness Exalted Hero of Chaos",
     "price": 256,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/36266-slaves-to-darkness-exalted-hero-of-chaos.html",
     "tags": [
       "Miniatures",
@@ -5427,13 +5484,12 @@
     "price": 569,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/hq/36261-slaves-to-darkness-daemon-prince.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/36261-slaves-to-darkness-daemon-prince.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Slaves To Darkness: Daemon Prince"
     ],
     "img": "https://www.fantasianorth.com/14303-large_default/slaves-to-darkness-daemon-prince.jpg"
@@ -5442,7 +5498,7 @@
     "title": "Slaves To Darkness: Hargax's Pit-beasts",
     "price": 740,
     "availability": "In stock",
-    "number": 18,
+    "number": 17,
     "url": "https://www.fantasianorth.com/en/slaves-to-darkness/36598-slaves-to-darkness-hargax-s-pit-beasts-5011921210275.html",
     "tags": [
       "Miniatures",
@@ -5456,8 +5512,8 @@
   {
     "title": "Slaves To Darkness: Lord On Karkadrak",
     "price": 341,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 3,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/36269-slaves-to-darkness-lord-on-karkadrak.html",
     "tags": [
       "Miniatures",
@@ -5471,8 +5527,8 @@
   {
     "title": "Slaves To Darkness: Ogroid Theridons",
     "price": 455,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/36262-slaves-to-darkness-ogroid-theridons.html",
     "tags": [
       "Miniatures",
@@ -5502,14 +5558,13 @@
     "title": "Sloppity Bilepiper",
     "price": 256,
     "availability": "In stock",
-    "number": 2,
-    "url": "https://www.fantasianorth.com/en/hq/14867-daemons-of-nurgle-sloppity-bilepiper-5011921170357.html",
+    "number": 1,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/14867-daemons-of-nurgle-sloppity-bilepiper-5011921170357.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Sloppity Bilepiper"
     ],
     "img": "https://www.fantasianorth.com/5157-large_default/daemons-of-nurgle-sloppity-bilepiper.jpg"
@@ -5532,8 +5587,8 @@
   {
     "title": "Sons of Behemat: Mancrusher Mob",
     "price": 1082,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-destruction/28879-sons-of-behemat-mancrusher-mob-5011921177790.html",
     "tags": [
       "Miniatures",
@@ -5547,8 +5602,8 @@
   {
     "title": "Sorceress",
     "price": 138,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/cities-of-sigmar/882-dark-elf-supreme-sorceress-5011921996155.html",
     "tags": [
       "Miniatures",
@@ -5577,8 +5632,8 @@
   {
     "title": "Soulblight Gravelords: Fell Bats",
     "price": 399,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/20816-soulblight-gravelords-fell-bats-5011921139071.html",
     "tags": [
       "Miniatures",
@@ -5593,7 +5648,7 @@
     "title": "Soulblight Gravelords: Ivya Volga",
     "price": 256,
     "availability": "In stock",
-    "number": 6,
+    "number": 5,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/36836-soulblight-gravelords-ivya-volga-5011921141708.html",
     "tags": [
       "Miniatures",
@@ -5608,7 +5663,7 @@
     "title": "Soulblight Gravelords: Vampire Lord",
     "price": 228,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/20818-soulblight-gravelords-vampire-lord-5011921138982.html",
     "tags": [
       "Miniatures",
@@ -5652,8 +5707,8 @@
   {
     "title": "Spirit Host",
     "price": 223,
-    "availability": "In stock",
-    "number": 2,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/1197-spirit-host-5011921177370.html",
     "tags": [
       "Miniatures",
@@ -5669,13 +5724,12 @@
     "price": 256,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/hq/14855-spoilpox-scrivener-5011921170340.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/14855-spoilpox-scrivener-5011921170340.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "Spoilpox Scrivener"
     ],
     "img": "https://www.fantasianorth.com/5142-large_default/spoilpox-scrivener.jpg"
@@ -5683,8 +5737,8 @@
   {
     "title": "Squigboss with Gnasha-squig",
     "price": 228,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/games-workshop/36316-squigboss-with-gnasha-squig-5011921165339.html",
     "tags": [
       "Squigboss with Gnasha-squig"
@@ -5737,8 +5791,8 @@
   {
     "title": "Start Collecting! Greywater Fastness",
     "price": 638,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/start-collecting/18141-start-collecting-greywater-fastness-5011921126378.html",
     "tags": [
       "Miniatures",
@@ -5853,8 +5907,8 @@
   {
     "title": "Storm Verb",
     "price": 458,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/970-skaven-stormvermin-5011921016839.html",
     "tags": [
       "Miniatures",
@@ -5868,8 +5922,8 @@
   {
     "title": "Stormcast Eternals Annihilators",
     "price": 399,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/21434-stormcast-eternals-annihilators-5011921155651.html",
     "tags": [
       "Miniatures",
@@ -6063,8 +6117,8 @@
   {
     "title": "Stormcast Eternals Sequitors",
     "price": 455,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/stormcast-eternals/15237-stormcast-eternals-sequitors-5011921165391.html",
     "tags": [
       "Miniatures",
@@ -6093,8 +6147,8 @@
   {
     "title": "Stormcast Eternals Thunderstrike Brotherhood",
     "price": 524,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/start-collecting/15203-stormcast-eternals-thunderstrike-brotherhood-5011921079971.html",
     "tags": [
       "Miniatures",
@@ -6122,8 +6176,8 @@
   {
     "title": "Stormcast Eternals: Dracothian Guard",
     "price": 513,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/9225-stormcast-eternals-dracothian-guard-5011921166039.html",
     "tags": [
       "Miniatures",
@@ -6243,7 +6297,7 @@
     "title": "Stormcast Eternals: Vigilors",
     "price": 456,
     "availability": "In stock",
-    "number": 7,
+    "number": 6,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/21436-stormcast-eternals-vigilors-5011921154296.html",
     "tags": [
       "Miniatures",
@@ -6287,14 +6341,14 @@
   {
     "title": "Syllesske: the Vengeful Allegiance",
     "price": 379,
-    "availability": "In stock",
-    "number": 1,
-    "url": "https://www.fantasianorth.com/en/hedonites-of-slaanesh/16401-syllesske-the-vengeful-allegiance-5011921114603.html",
+    "availability": "Temporarily out of stock",
+    "number": null,
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/16401-syllesske-the-vengeful-allegiance-5011921114603.html",
     "tags": [
       "Miniatures",
-      "Aos",
-      "Grand Alliance Chaos",
-      "Hedonites of Slaanesh",
+      "Wh 40k",
+      "Armies of Chaos",
+      "Chaos Daemons",
       "Syllesske: the Vengeful Allegiance"
     ],
     "img": "https://www.fantasianorth.com/6200-large_default/syllesske-the-vengeful-allegiance.jpg"
@@ -6302,8 +6356,8 @@
   {
     "title": "Sylvaneth Alarielle the Everqueen",
     "price": 1083,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/12865-sylvaneth-alarielle-the-everqueen-5011921179411.html",
     "tags": [
       "Miniatures",
@@ -6347,8 +6401,8 @@
   {
     "title": "Sylvaneth Kurnoth Hunters",
     "price": 428,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/12864-sylvaneth-kurnoth-hunters-5011921179442.html",
     "tags": [
       "Miniatures",
@@ -6378,7 +6432,7 @@
     "title": "Sylvaneth: Elthwin's Thorns",
     "price": 484,
     "availability": "In stock",
-    "number": 4,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/sylvaneth/36602-sylvaneth-elthwin-s-thorns-5011921210565.html",
     "tags": [
       "Miniatures",
@@ -6393,7 +6447,7 @@
     "title": "Sylvaneth: Gossamid Archers",
     "price": 342,
     "availability": "In stock",
-    "number": 4,
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/23644-sylvaneth-gossamid-archers-5011921163304.html",
     "tags": [
       "Miniatures",
@@ -6437,8 +6491,8 @@
   {
     "title": "Sylvaneth: Warsong Revenant",
     "price": 428,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-order/20871-sylvaneth-warsong-revenant-5011921179466.html",
     "tags": [
       "Miniatures",
@@ -6499,13 +6553,12 @@
     "price": 367,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/hq/835-the-blue-scribes-5011921063994.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/835-the-blue-scribes-5011921063994.html",
     "tags": [
       "Miniatures",
       "Wh 40k",
       "Armies of Chaos",
       "Chaos Daemons",
-      "Hq",
       "the Blue Scribes"
     ],
     "img": "https://www.fantasianorth.com/412-large_default/the-blue-scribes.jpg"
@@ -6515,12 +6568,12 @@
     "price": 237,
     "availability": "Temporarily out of stock",
     "number": null,
-    "url": "https://www.fantasianorth.com/en/disciples-of-tzeentch/13557-the-changeling-5011921178674.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/13557-the-changeling-5011921178674.html",
     "tags": [
       "Miniatures",
-      "Aos",
-      "Grand Alliance Chaos",
-      "Disciples of Tzeentch",
+      "Wh 40k",
+      "Armies of Chaos",
+      "Chaos Daemons",
       "the Changeling"
     ],
     "img": "https://www.fantasianorth.com/4194-large_default/the-changeling.jpg"
@@ -6528,8 +6581,8 @@
   {
     "title": "the Chaven Pestilens Plague Monks",
     "price": 323,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/8859-skaven-pestilens-plague-monks-5011921179350.html",
     "tags": [
       "Miniatures",
@@ -6545,8 +6598,12 @@
     "price": 379,
     "availability": "In stock",
     "number": 2,
-    "url": "https://www.fantasianorth.com/en/home/16395-the-contorted-epitome-5011921114597.html",
+    "url": "https://www.fantasianorth.com/en/chaos-daemons/16395-the-contorted-epitome-5011921114597.html",
     "tags": [
+      "Miniatures",
+      "Wh 40k",
+      "Armies of Chaos",
+      "Chaos Daemons",
       "the Contorted Epitome"
     ],
     "img": "https://www.fantasianorth.com/6199-large_default/the-contorted-epitome.jpg"
@@ -6554,8 +6611,8 @@
   {
     "title": "the Glottkin",
     "price": 911,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/5638-the-glottkin-5011921170364.html",
     "tags": [
       "Miniatures",
@@ -6615,7 +6672,7 @@
     "title": "Tomb Banshee",
     "price": 138,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/991-vampire-counts-tomb-banshee-5011921025336.html",
     "tags": [
       "Miniatures",
@@ -6644,8 +6701,8 @@
   {
     "title": "Tzaangors",
     "price": 379,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/disciples-of-tzeentch/13546-tzeentch-arcanite-tzaangors-5011921178643.html",
     "tags": [
       "Miniatures",
@@ -6824,8 +6881,8 @@
   {
     "title": "Vanguard: Beasts of Chaos",
     "price": 968,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/games-workshop/36311-vanguard-beasts-of-chaos-5011921178063.html",
     "tags": [
       "Vanguard: Beasts of Chaos"
@@ -6850,7 +6907,7 @@
     "title": "Vanguard: Daughters of Khaine",
     "price": 968,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/start-collecting/23655-vanguard-daughters-of-khaine-5011921172474.html",
     "tags": [
       "Miniatures",
@@ -6892,8 +6949,8 @@
   {
     "title": "Vanguard: Gloomspite Gitz",
     "price": 968,
-    "availability": "In stock",
-    "number": 1,
+    "availability": "Temporarily out of stock",
+    "number": null,
     "url": "https://www.fantasianorth.com/en/games-workshop/36310-vanguard-gloomspite-gitz-5011921162932.html",
     "tags": [
       "Vanguard: Gloomspite Gitz"
@@ -6931,8 +6988,8 @@
   {
     "title": "Vanguard: Kharadron Overlords",
     "price": 968,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/start-collecting/36596-vanguard-kharadron-overlords-5011921181995.html",
     "tags": [
       "Miniatures",
@@ -6975,7 +7032,7 @@
     "title": "Vanguard: Nighthaunt",
     "price": 774,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/start-collecting/23639-vanguard-nighthaunt-5011921169795.html",
     "tags": [
       "Miniatures",
@@ -7000,10 +7057,21 @@
     "img": "https://www.fantasianorth.com/14109-large_default/vanguard-ogor-mawtribes.jpg"
   },
   {
+    "title": "Vanguard: Orruk Warclans",
+    "price": 968,
+    "availability": "In stock",
+    "number": 1,
+    "url": "https://www.fantasianorth.com/en/games-workshop/37576-vanguard-orruk-warclans.html",
+    "tags": [
+      "Vanguard: Orruk Warclans"
+    ],
+    "img": "https://www.fantasianorth.com/16222-large_default/vanguard-orruk-warclans.jpg"
+  },
+  {
     "title": "Vanguard: Ossiarch Bonereapers",
     "price": 968,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/start-collecting/36832-vanguard-ossiarch-bonereapers-5011921163205.html",
     "tags": [
       "Miniatures",
@@ -7045,8 +7113,8 @@
   {
     "title": "Vanguard: Slaves To Darkness",
     "price": 968,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/slaves-to-darkness/36267-vanguard-slaves-to-darkness.html",
     "tags": [
       "Miniatures",
@@ -7075,7 +7143,7 @@
     "title": "Vanguard: Sylvaneth",
     "price": 968,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/start-collecting/33728-vanguard-sylvaneth-5011921163311.html",
     "tags": [
       "Miniatures",
@@ -7103,8 +7171,8 @@
   {
     "title": "Vargheists/crypt Horrors/crypt Flayers",
     "price": 399,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 2,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/1015-flesh-eater-courts-crypt-flayers-5011921070404.html",
     "tags": [
       "Miniatures",
@@ -7133,8 +7201,8 @@
   {
     "title": "Verminlord",
     "price": 797,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-chaos/36257-skaven-pestilens-verminlord-corruptor-5011921179367.html",
     "tags": [
       "Miniatures",
@@ -7189,6 +7257,21 @@
       "Warchanter"
     ],
     "img": "https://www.fantasianorth.com/2677-large_default/orruk-warchanter.jpg"
+  },
+  {
+    "title": "Warcry Fyreslayers: Vulkyn Flameseekers",
+    "price": 398,
+    "availability": "Temporarily out of stock",
+    "number": null,
+    "url": "https://www.fantasianorth.com/en/warbands/37630-warcry-fyreslayers-vulkyn-flameseekers.html",
+    "tags": [
+      "Miniatures",
+      "Games Workshop",
+      "Warcry",
+      "Warbands",
+      "Warcry Fyreslayers: Vulkyn Flameseekers"
+    ],
+    "img": "https://www.fantasianorth.com/16267-large_default/warcry-fyreslayers-vulkyn-flameseekers.jpg"
   },
   {
     "title": "Warden King",
@@ -7254,7 +7337,7 @@
     "title": "Wight King On Steed",
     "price": 284,
     "availability": "In stock",
-    "number": 2,
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/36837-wight-king-on-steed-5011921182107.html",
     "tags": [
       "Miniatures",
@@ -7268,8 +7351,8 @@
   {
     "title": "Wight King with Baleful Tomb Blade",
     "price": 138,
-    "availability": "Temporarily out of stock",
-    "number": null,
+    "availability": "In stock",
+    "number": 1,
     "url": "https://www.fantasianorth.com/en/all-armies-of-death/1007-deathrattle-wight-king-5011921090587.html",
     "tags": [
       "Miniatures",
